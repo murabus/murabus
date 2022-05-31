@@ -55,4 +55,4 @@ Hello! I am a first-gen PhD student originally from Turkey. I spent considerable
 
 Lorem ipsum dolor sit amet
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-abus.pdf" "newtab" >}}CV{{< /staticref >}}.
