@@ -23,9 +23,12 @@ organizations:
   url: https://www.tamu.edu/
 role: PhD Student, Political Science
 social:
+- icon: cv
+  icon_pack: ai
+  link: uploads/cv-abus.pdf
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:mabus@tamu.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/muratabus
