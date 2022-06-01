@@ -2,10 +2,6 @@
 title: "Democratization in the Balkans, 1990-2002"
 authors:
 - admin
-<<<<<<< HEAD
-=======
-author_notes:
->>>>>>> 6768222d79a7b8a3fba960b58cd201cf0ab5749d
 date: "2003-01-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -18,21 +14,14 @@ publishDate: "2003"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-<<<<<<< HEAD
 publication: "Democratization"
-=======
-publication: "*Democratization"
->>>>>>> 6768222d79a7b8a3fba960b58cd201cf0ab5749d
 publication_short: "alternatives"
 
 abstract: Studies employing conceptual frameworks that call for a clear separation between transition and consolidation get it wrong. Because of the peculiar characteristics of Balkan countries, it has been demonstrated that the process was, is, and will be a unique one. Therefore, "gradualism" is a better way to approach the issue of democratization in the Balkans. The results after a decade of democratization are decidedly mixed, but this region surpasses almost all other postcommunist regions with respect to the measures of institutionalization explored here. The future propsects for further Balkan democratization will inevitably be linked to their economic performance and in this context a mutual interaction between the EU and the Balkan countries and especially the "pull" factor of the EU will be two of the most important deciding factors. 
 
 # Summary. An optional shortened abstract.
-<<<<<<< HEAD
 # summary: 
-=======
-summary: This interview with Afonso Dhlakama was conducted as part of the African Democracy Project series at Wayne State University.
->>>>>>> 6768222d79a7b8a3fba960b58cd201cf0ab5749d
+
 
 tags:
 - Balkans
