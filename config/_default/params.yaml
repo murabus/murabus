@@ -1,3 +1,4 @@
+
 # SITE SETUP
 # Guide: https://wowchemy.com/docs/getting-started/
 # Documentation: https://wowchemy.com/docs/
@@ -5,18 +6,27 @@
 
 # Appearance
 
- theme_day: mur
- font: minimal
- font_size: L
+appearance:
+  theme_day: mur
+  theme_night: mur
+  font: minimal
+  font_size: L
 
 # SEO
 
-site_type: Person
-local_business_type: ''
-org_name: ''
-description: 'First-gen Political Science PhD Student at Texas A&M University'
-twitter: '@muratabus'
-  
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 
@@ -34,8 +44,12 @@ header:
 
 footer:
   copyright:
-    notice: '© Murat Abus {year}'
-
+    notice: '© {year} Me. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
 
@@ -81,12 +95,15 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
+
+# Extensions
+
+extensions:
   cms:
     branch: main
     local_backend: false
   academicons:
     enable: true
-  
 
 # Security
 
