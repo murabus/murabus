@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: mur	
-  theme_night: mur
+  theme: mur	
+  day_night: true
   font: minimal
   font_size: L
 
@@ -36,7 +36,7 @@ header:
 
 footer:
   copyright:
-    notice: '© Murat Abus {2022}'
+    notice: '© Murat Abus (2003-2022)'
 
 
 # Localization
@@ -73,7 +73,7 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: 
     algolia:
       app_id: ''
       api_key: ''
