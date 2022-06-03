@@ -34,7 +34,7 @@ header:
 
 footer:
   copyright:
-    notice: '© Murat Abus (2003-2022)'
+    notice: '© Murat Abus {year}'
 
 
 # Localization
@@ -81,15 +81,12 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
-
-# Extensions
-
-extensions:
   cms:
     branch: main
     local_backend: false
   academicons:
-    enable: true
+    ai: true
+  
 
 # Security
 
