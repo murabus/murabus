@@ -5,7 +5,8 @@
 
 # Appearance
 
- theme: mur	
+ theme_day: mur
+ theme_night: mur	
  font: minimal
  font_size: L
 
