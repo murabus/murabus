@@ -22,7 +22,8 @@ twitter: '@muratabus'
 
 # Site header
 
-main_menu:
+header:
+  navbar:
     enable: true
     align: l
     show_logo: true
