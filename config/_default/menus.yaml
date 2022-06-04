@@ -7,17 +7,17 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Publications
-    url: '#publications'
-    weight: 20
-  - name: Working Papers
-    url: '#workingpapers'
-    weight: 30
   - name: Posts
     url: '#posts'
+    weight: 20
+  - name: Publications
+    url: '#publications'
+    weight: 30
+  - name: Working Papers
+    url: '#workingpapers'
     weight: 40
-  - name: Conferences
-    url: '#featured'
+  - name: Teaching
+    url: '#teaching'
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
