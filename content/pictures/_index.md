@@ -10,7 +10,7 @@ gallery_item:
   caption: Tubis    # only shown when zoom out
 - album: gallery
   image:  'deneme2.jpg'
-  caption: Tubissss  # only shown when zoom out      
+  caption: 12 April 2018, Dikhil, Djibouti  # only shown when zoom out      
 ---
 
 
