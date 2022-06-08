@@ -17,6 +17,9 @@ gallery_item:
 <h1 style="color:#ae1717;">In Pictures</h1>
 <hr />
 
+Here is a small snapshot of what excites me in life.
+
+
 {{< gallery >}}
 
 
