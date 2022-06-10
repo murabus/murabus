@@ -1,5 +1,5 @@
 ---
-bio: I study political behavior, political economy, autocratization, and methodology,
+bio: I study political behavior, political economy, autocratization, and methodology.
 education:
   courses:
   - course: PhD in Political Science
@@ -16,7 +16,8 @@ highlight_name: false
 interests:
 - Political Behavior
 - Political Economy
-- Autocractization
+- Autocratization
+- Public Policy
 - Political Methodology
 organizations:
 - name: Texas A&M University
@@ -51,8 +52,8 @@ superuser: true
 title: Murat Abus
 ---
 
-Hello! I am a first-gen PhD student originally from Turkey. I spent considerable time on international assignments before returning to academia. I am passionate about teaching. I am a comparativist studying political behavior, autocratization/democratization and mnethodology.
+Hello! I am a first-gen PhD student originally from Turkey. I spent considerable time on international assignments before returning to academia. I am a comparativist studying political behavior, autocratization/democratization, public policy, and methodology. I emphasize developing countries, though this is not exclusive. I enjoy teaching and collaborating. I have an active presence in the conference circuit.
 
-Lorem ipsum dolor sit amet
+I am an avid reader. Archaeology, travelling, and cars are my primary hobbies. I am fascinated by the transition from paleolithic to neolithic eras, civilizations of the Old World, and late-model classic cars. I grew up in [Erzurum](https://en.wikipedia.org/wiki/Erzurum) in Eastern Turkey with an altitude of 1,900mt (6,233ft) above sea level.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-abus.pdf" "newtab" >}}CV{{< /staticref >}}.
