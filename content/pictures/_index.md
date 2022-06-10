@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-layout: docs
+layout: images
 
 gallery_item:
 - album: gallery        
@@ -103,7 +103,7 @@ gallery_item:
   caption: 04/09/2017, Sagalassos Antonines Fountain, Burdur
 - album: gallery
   image:  'c23.png'
-  caption:  03/19/2017, Aphrodisias, Aydin
+  caption:  03/19/2017, Nysa, Aydin
 - album: gallery
   image:  'c24.png'
   caption: 03/19/2017, Sebasteion, Aphrodisias, Aydin
@@ -205,7 +205,7 @@ gallery_item:
   caption: 07/05/2013, Benghazi, Libya
 - album: gallery
   image:  'd50.png'
-  caption:  08/01/2013, Beghazi Airport, Libya
+  caption:  08/01/2013, Benghazi Airport, Libya
 - album: gallery
   image:  'd51.png'
   caption: 06/11/2007, Unsecured Location Outside Baghdad Airport, Iraq
@@ -252,18 +252,30 @@ gallery_item:
   image:  'd65.png'
   caption: 04/12/2018, Dikhil, Djibouti
 - album: gallery
-  image:  'd66.png'
+  image:  'd66.jpg'
   caption:  
   - album: gallery
   image:  'd67.png'
-  caption:  
+  caption:  05/13/2022, SoWEPS-5 Dinner, Houston, TX
+- album: gallery
+  image:  'd70.jpg'
+  caption: 10/19/2013, Kaliningrad, Russia
+- album: gallery
+  image:  'd71.png'
+  caption: 11/02/2013, Soviet Foxtrot Submarine B-443 Museum, Kaliningrad, Russia
+- album: gallery
+  image:  'd72.png'
+  caption: 
+  - album: gallery
+  image:  'd73.jpg'
+  caption:  11/09/2013, Boarding the Majestic Ilyushin 96-300 of Aeroflot for the Moscow-Istanbul flight.   
 ---
 
 
-<h1 style="color:#ae1717;">In Pictures</h1>
+<h1 style="color:#ae1717;">Pictures</h1>
 <hr />
 
-Here are a few snapshots of me enjoying the ride...
+The following are a few random snapshots of me enjoying the ride...
 
 
 {{< gallery >}}
