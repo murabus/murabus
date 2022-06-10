@@ -88,7 +88,7 @@ gallery_item:
   caption: 
   - album: gallery        
   image: 'c19.png'  
-  caption: 
+  caption: 08/21/2016, Soganli Valley, Nevsehir
 - album: gallery
   image:  'c2.png'
   caption: 05/27/2019, Zeugma, Gaziantep
@@ -115,7 +115,7 @@ gallery_item:
   caption: 08/21/2016, Gumusler Monastery, Nigde
 - album: gallery
   image:  'c27.png'
-  caption: 
+  caption:  
   - album: gallery        
   image: 'c28.png'  
   caption: 07/31/2016, Tiles Museum, Konya
@@ -154,7 +154,7 @@ gallery_item:
   caption:  
   - album: gallery        
   image: 'c5.png'  
-  caption:
+  caption: 
 - album: gallery
   image:  'c6.png'
   caption:  06/03/2019, Cavustepe Castle (Urartu), Van
