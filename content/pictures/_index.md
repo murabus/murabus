@@ -187,7 +187,7 @@ gallery_item:
   caption: 04/07/2012, Mong Kok Ladies Market, Hong Kong
 - album: gallery
   image:  'd44.png'
-  caption:  
+  caption:
   - album: gallery
   image:  'd45.png'
   caption: 04/08/2012, Hong Kong Skyline
@@ -256,7 +256,7 @@ gallery_item:
   caption:  
   - album: gallery
   image:  'd67.png'
-  caption:  d
+  caption:  
 ---
 
 
