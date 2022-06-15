@@ -1,7 +1,10 @@
 ---
-title: "Clientelism and Voting Behavior: Empirical Evidence from Turkey"
+title: "Clientelism and Voting Behavior"
+subtitle: "Empirical Evidence from Turkey"
 authors:
 - admin
+author_notes:
+- "First author"
 date: "2022-01-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -11,13 +14,13 @@ publishDate: "2022"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Working Paper"
 publication_short: ""
 
-abstract: deneme deneme 
+abstract: deneme deneme wlkedfjw lewıurflewı fewlırunl fewırufe fwerıuwef fwelrıf 
 
 # Summary. An optional shortened abstract.
 summary: deneme deneme
@@ -31,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/Abus_2003 Democratization in the Balkans.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

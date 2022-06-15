@@ -2,6 +2,8 @@
 title: "Democratization in the Balkans, 1990-2002"
 authors:
 - admin
+author_notes:
+- "First author"
 date: "2003-01-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
