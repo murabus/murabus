@@ -17,7 +17,7 @@ publishDate: "2022"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Texas CP Conference"
+publication: "SPSA 93rd Annual Conference and 4th Texas CP Conference"
 publication_short: "TX CP"
 
 abstract: deneme deneme wlkedfjw lewıurflewı fewlırunl fewırufe fwerıuwef fwelrıf 
