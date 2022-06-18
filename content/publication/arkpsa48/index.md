@@ -1,5 +1,6 @@
 ---
 title: "Election Administration and UOCAVA Voting"
+subtitle: "The State and New Metrics"
 authors:
 - admin
 author_notes:
@@ -19,27 +20,28 @@ publication_types: ["1"]
 publication: "ArkPSA 48th Annual Meeting"
 publication_short: ""
 
-abstract: Studies employing conceptual frameworks that call for a clear separation between transition and consolidation get it wrong. Because of the peculiar characteristics of Balkan countries, it has been demonstrated that the process was, is, and will be a unique one. Therefore, "gradualism" is a better way to approach the issue of democratization in the Balkans. The results after a decade of democratization are decidedly mixed, but this region surpasses almost all other postcommunist regions with respect to the measures of institutionalization explored here. The future propsects for further Balkan democratization will inevitably be linked to their economic performance and in this context a mutual interaction between the EU and the Balkan countries and especially the "pull" factor of the EU will be two of the most important deciding factors. 
+abstract: Under the general framework of efforts to improve election administration in the United States in the aftermath of the debacle in Florida in 2000, Election Assistance Commission was established to prevent a repeat of administrative failures. The resulting federally-mandated data accumulation has afforded an unprecedented insight into the effect of election administration on the achievement of democratic ideals of competition and representation, namely for the electorate to be able to cast their ballot and their choice to be recorded correctly. The present study has three aims- First, the extant state of the knowledge regarding voting from abroad will be assessed and updated with the most recent data. Second, the pioneering multivariate analyses with the emerging data will be extended using the latest data. Third, new and more vigorous multivariate analysis will be offered making use of the new metrics that finally became available in 2018. The enduring problems with data collection will also briefly be illustrated. Therefore, the contribution of this study is in building a framework by extending the studies using the same kind of metrics, establishing a baseline and then taking the explanation one step further with the new metrics. The findings suggest that the new metrics do afford a higher level of explanatory power over the effect of election administration with respect to key outcomes in voting from abroad.
 
 # Summary. An optional shortened abstract.
-summary: In this article, I argue that gradualism is a better way to approach democratization in the Balkans compared to the transition paradigm.
-
+summary: In this paper, I update the empirical research on election administration relating to UOCAVA voting and incorporate the new metrics that recently became available. 
 
 tags:
-- Balkans
-- Postcommunist
-- Democratization
+- Election administration
+- America
+- UOCAVA 
+- Voting from abroad
+- Federally-madated data accumulation
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/Abus_2003 Democratization in the Balkans.pdf
+url_pdf: uploads/Abus_2021 Election Administration and UOCAVA.pdf
 url_code: ''
-url_dataset: ''
+url_dataset: https://github.com/murabus/uocava_data
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: uploads/abus_uocava.pdf
 url_source: ''
 url_video: ''
 

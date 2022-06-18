@@ -19,27 +19,28 @@ publication_types: ["1"]
 publication: "MPSA 78th Annual Conference"
 publication_short: ""
 
-abstract: Studies employing conceptual frameworks that call for a clear separation between transition and consolidation get it wrong. Because of the peculiar characteristics of Balkan countries, it has been demonstrated that the process was, is, and will be a unique one. Therefore, "gradualism" is a better way to approach the issue of democratization in the Balkans. The results after a decade of democratization are decidedly mixed, but this region surpasses almost all other postcommunist regions with respect to the measures of institutionalization explored here. The future propsects for further Balkan democratization will inevitably be linked to their economic performance and in this context a mutual interaction between the EU and the Balkan countries and especially the "pull" factor of the EU will be two of the most important deciding factors. 
+abstract: The dramatic expansion of multiparty elections in the post-Cold War period and the emergence of protracted transitions and divergent outcomes caused debates on whether elections create or further path dependencies. Some scholars argued that elections do have the power to usher in an increase in liberties and the level of democraticness in a polity and therefore create a new path dependency whereas others pointed out to the possibility of elections lending legitimacy to authoritarian rulers and enabling them to stabilize their rule through giving them adequate information regarding the level and spatial spread of support for them and hence further a path dependency in place. To solve this puzzle of whether elections create or further path dependencies, this study utilizes a dataset of 652 elections in 93 countries encompassing both the Third and Fourth Waves to examine the effect of elections on tangible changes in quality of democracy measured through indices like electoral integrity. Assessed within a larger supply and demand framework, the findings suggest that reiterated multiparty elections have a significant effect on electoral integrity and hence on creation of a new path dependency on improving the quality of democracy.
 
 # Summary. An optional shortened abstract.
-summary: In this article, I argue that gradualism is a better way to approach democratization in the Balkans compared to the transition paradigm.
-
+summary: In this paper, I provide an empirical test of one aspect of the arguments relating to the effect of reiterated elections on level of democracy. 
 
 tags:
-- Balkans
-- Postcommunist
+- Electoral integrity
 - Democratization
+- Power of elections
+- Third wave
+- Fourth wave
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/Abus_2003 Democratization in the Balkans.pdf
+url_pdf: uploads/Abus_2021 Elections and Dependency.pdf
 url_code: ''
-url_dataset: ''
+url_dataset: https://github.com/murabus/elections-data
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: uploads/abus_elections.pdf
 url_source: ''
 url_video: ''
 
