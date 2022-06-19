@@ -1,8 +1,7 @@
 ---
-header:
-  caption: ""
-  image: ""
-layout: images
+widget: blank
+headless: true
+
 
 gallery_item:
 - album: gallery        
