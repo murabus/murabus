@@ -31,9 +31,9 @@ tags:
 - Democratization
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: Article
+   url: uploads/Abus_2003 Democratization in the Balkans.pdf
 url_pdf: uploads/Abus_2003 Democratization in the Balkans.pdf
 url_code: ''
 url_dataset: ''

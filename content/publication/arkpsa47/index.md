@@ -1,6 +1,6 @@
 ---
 title: "Reflections in the Mirror"
-subtitle: "Authoritarian Values and Political Identities ın Turkey" 
+subtitle: "Authoritarian Values and Political Identities in Turkey" 
 authors:
 - admin
 author_notes:
@@ -35,7 +35,9 @@ tags:
 - Turkey
 featured: false
 
-# links:
+links:
+ - name: Conference Paper
+   url: uploads/Abus_2020 Authoritarian Values.pdf
 # - name: ""
 #   url: ""
 url_pdf: uploads/Abus_2020 Authoritarian Values.pdf
@@ -46,7 +48,6 @@ url_project: ''
 url_slides: uploads/abus_authoritarian_values.pdf
 url_source: ''
 url_video: ''
-url_codebook: https://github.com/murabus/reflections_data/blob/main/Codebook_Reflections.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
