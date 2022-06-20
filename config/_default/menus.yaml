@@ -5,7 +5,7 @@
 
 main:
   - name: Pictures
-    url: 'pictures/'
+    url: '/pictures/'
     weight: 10
   - name: Posts
     url: '#posts'
@@ -14,7 +14,7 @@ main:
     url: '#publications'
     weight: 30
   - name: Teaching
-    url: 'teaching/'
+    url: '/teaching/'
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
