@@ -30,7 +30,7 @@ tags:
 - America
 - UOCAVA 
 - Voting from abroad
-- Federally-madated data accumulation
+- Federally-mandated data accumulation
 featured: false
 
 # links:

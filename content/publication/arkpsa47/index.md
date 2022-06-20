@@ -36,8 +36,8 @@ tags:
 featured: false
 
 links:
- - name: Conference Paper
-   url: uploads/Abus_2020 Authoritarian Values.pdf
+ - name: Codebook
+   url: https://github.com/murabus/reflections_data/blob/main/Codebook_Reflections.pdf
 # - name: ""
 #   url: ""
 url_pdf: uploads/Abus_2020 Authoritarian Values.pdf

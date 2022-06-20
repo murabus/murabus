@@ -32,9 +32,9 @@ tags:
 - Fourth wave
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: Codebook
+   url: https://github.com/murabus/elections-data/blob/main/Codebook_Elections%20and%20Dependency.pdf
 url_pdf: uploads/Abus_2021 Elections and Dependency.pdf
 url_code: ''
 url_dataset: https://github.com/murabus/elections-data
