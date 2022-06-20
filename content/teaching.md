@@ -17,7 +17,7 @@ design:
 
 ### POLS 200 Foundations of Political Science, Texas A&M University, Spring 2022
 
-I served as a teaching assistant for José Antonio Chebub.
+I served as a teaching assistant for José Antonio Cheibub.
 
 {{< icon name="download" pack="fas" >}} [Download course evaluation](/uploads/POLS200_evaluation_Spring_2022.pdf)
 
@@ -25,4 +25,4 @@ I served as a teaching assistant for José Antonio Chebub.
 
 I served as a teaching assistant for Michelle Taylor-Robinson.
 
-{{< icon name="download" pack="fas" >}} [Download course evaluation](/uploads/POLS200_evaluation_Fall_2021,pdf)
+{{< icon name="download" pack="fas" >}} [Download course evaluation](/uploads/POLS200_evaluation_Fall_2021.pdf)
