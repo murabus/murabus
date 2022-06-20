@@ -9,7 +9,7 @@ design:
     padding: ["0", "0", "0", "0"]  
 ---
 
-<h1 style="color:#cc0000;">Teaching</h1>
+<h1 style="color:#ae1717;">Teaching</h1>
 <hr/>
 
 ### 1. Teaching Assistant 

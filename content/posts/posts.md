@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Posts
-subtitle:
+title: <h1 style="color:#ae1717;">Posts</h1>
+subtitle: <h3 style="color:#ae1717;">Personal Musings</h3>
 
 content:
   # Filter on criteria
@@ -34,6 +34,7 @@ content:
 design:
   # Choose a view for the listings:
   view: compact
-  columns: '2'
+  columns: '1'
 ---
 
+I occasionally muse on things. The ideas I express here are my own and do not necessarily reflect those of any institution. If you find any of these useful, please acknowledge the source. Thank you!
