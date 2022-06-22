@@ -5,8 +5,8 @@ authors:
 - admin
 - Cameron Wimpy
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "Second Author"
 date: "2021-04-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -36,12 +36,12 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/Abus_2021 Elections and Dependency.pdf
+url_pdf: ''
 url_code: ''
-url_dataset: https://github.com/murabus/elections-data
+url_dataset: '' 
 url_poster: ''
 url_project: ''
-url_slides: uploads/abus_elections.pdf
+url_slides: uploads/mpsa_2021.pdf
 url_source: ''
 url_video: ''
 
