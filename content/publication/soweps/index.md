@@ -20,15 +20,17 @@ publication_types: ["1"]
 publication: "Southern Workshop in Empirical Political Science - 5"
 publication_short: ""
 
-abstract: deneme deneme wlkedfjw lewıurflewı fewlırunl fewırufe fwerıuwef fwelrıf 
+abstract: Developing countries and developed countries alike have been increasing the number of sub-national administrative units in the last three decades. In the developing countries context, there has been a focus on the clientelism side of these reforms, but the literature has so far mostly ignored the objective democratic consequences of these administrative changes. In this paper, I examine the effects of reforms on electoral outcomes like contestation, turnout, and vote choice. Any possible effect is important with respect to democratic theory, but more so in the context of developing countries as incumbents have more discretion in public policy and administration. Turkey is a prime example of a developing country enacting a large number of administrative reforms. In order to test these ideas, I compile a district-level dataset of parliamentary elections in Turkey between 1961 and 2018 and utilize a time-series cross-section method to assess short-run effects of these reforms. Results suggest links between administrative reforms and the electoral outcomes studied. Tentative implication of this finding is twofold- First, we need to fully incorporate the reform phenomenon into vote functions in developing countries, and assess it as yet one more dimension in the ever expanding realm of authoritarian politics. Second, we need to systematically analyse the effect of administrative reforms on democratic backsliding in countries that achieved liberal democracy status like Hungary.
 
 # Summary. An optional shortened abstract.
-summary: deneme deneme
+summary: In this paper, I provide empirical evidence for the electoral effects of administrative reforms carried out by incumbents. 
 
 tags:
-- Clientelism
+- Administrative reform
+- Territorial reform
+- Authoritarian politics
+- Democratic backsliding
 - Turkey
-- Democratic Backsliding
 featured: false
 
 # links:

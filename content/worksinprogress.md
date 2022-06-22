@@ -1,10 +1,11 @@
 ---
-title: 'Works in Progress'
+title: ''
 author: Murat Abus
 date: '2022-06-22'
 ---
 
-Use markdown codes for color for the title
+<h1 style="color:#ae1717;">Works in Progress</h1>
+<hr/>
 
 ### Blog Posts
 
