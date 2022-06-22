@@ -19,16 +19,15 @@ publication_types: ["1"]
 publication: "MPSA 79th Annual Conference"
 publication_short: ""
 
-abstract: Studies employing conceptual frameworks that call for a clear separation between transition and consolidation get it wrong. Because of the peculiar characteristics of Balkan countries, it has been demonstrated that the process was, is, and will be a unique one. Therefore, "gradualism" is a better way to approach the issue of democratization in the Balkans. The results after a decade of democratization are decidedly mixed, but this region surpasses almost all other postcommunist regions with respect to the measures of institutionalization explored here. The future propsects for further Balkan democratization will inevitably be linked to their economic performance and in this context a mutual interaction between the EU and the Balkan countries and especially the "pull" factor of the EU will be two of the most important deciding factors. 
+abstract: Conceptualizing the effect of religion on political participation requires a more nuanced approach than simply assuming the effect of this variable changes slowly over long periods of time. I set out to test the contention that the effect of religiosity on political participation can change over relatively shorter periods of time. Testing this idea using survey data from a turbulent period of Turkey from 2013 to 2014, I find suggestive evidence that this type of political participation can also change even within a year.
 
 # Summary. An optional shortened abstract.
-summary: In this article, I argue that gradualism is a better way to approach democratization in the Balkans compared to the transition paradigm.
-
+summary: In this paper, I set out to test whether the effect of religiosity on political participation changes in shorter periods as opposed to the view that these changes are usually glacial. 
 
 tags:
-- Balkans
-- Postcommunist
-- Democratization
+- Religion
+- Political participation
+- Turkey
 featured: false
 
 # links:
