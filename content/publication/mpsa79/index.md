@@ -34,8 +34,8 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: ''
-url_code: uploads/abus_religion.do
-url_dataset: ''
+url_code: https://github.com/murabus/religion_data/blob/main/abus_religion.do
+url_dataset: https://github.com/murabus/religion_data/blob/main/religion_and_participation.dta
 url_poster: ''
 url_project: ''
 url_slides: uploads/abus_mpsa_2022.pdf

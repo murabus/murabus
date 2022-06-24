@@ -10,7 +10,6 @@ headless: true
 weight: 20
 
 title: <h1 style="color:#ae1717;">Posts</h1>
-subtitle: <h3 style="color:#ae1717;">Personal Musings</h3>
 
 content:
   # Filter on criteria
