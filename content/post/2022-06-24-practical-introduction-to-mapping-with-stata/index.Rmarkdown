@@ -10,8 +10,8 @@ tags:
   - Stata
   - Mapping
   - Chloropleth map
-subtitle: "This is a relatively short, practical introduction to mapping with Stata designed to get the newcomer started in no time." 
-summary: "This is a relatively short, practical introduction to mapping with Stata designed to get the newcomer started in no time." 
+subtitle: "This is a relatively short, practical introduction to mapping with Stata designed to get the newcomer started in no time and provide a quick refresher as needed." 
+summary: "This is a relatively short, practical introduction to mapping with Stata designed to get the newcomer started in no time and provide a quick refresher as needed." 
 lastmod: '2022-06-24T23:27:07+03:00'
 featured: no
 image:
@@ -21,7 +21,11 @@ image:
 projects: []
 ---
 
+Ne yapiyoruzu buraya yazip baslayalim
+
 ## 1. Preliminaries
+
+liausefhrlwiu lOEWDFHew lwiuedfioawuef, asdjflkasjdfhl 
 
 ```
 pwd
