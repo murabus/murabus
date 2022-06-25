@@ -90,6 +90,7 @@ spset
 ```
 
 ```
+* ssc install grmap
 grmap
 ```
 
