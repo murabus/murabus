@@ -23,7 +23,7 @@ publication_short: ""
 abstract: Elections sometimes give rise to authoritarian leaders and lead to a decline of democracy. This process can then lead to further episodes of regression in the presence of elections. The actions of leaders to entrench their rule are well documented. However, relatively less is known about the sources of support that non-democratic policies get from the electorate. What are the determinants of authoritarian support if we are to frame the relationship in a supply and demand framework? Studying the phenomenon in one of the worst cases of autocratization will provide insights as many processes will be actively at work and observable. Nationally representative survey data from Turkey are used to address this question. The results suggest that an active interplay of structural forces with current factors determine the societal support for authoritarian politics.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, I analyze the sources of support for authoritarian politics in one of the worst cases of democratic decline in the world.
+summary: In this paper, I analyze the sources of support for authoritarian politics in one of the worst cases of democratic decline in the world. <br> **Best Graduate Paper Award**
 
 
 tags:
