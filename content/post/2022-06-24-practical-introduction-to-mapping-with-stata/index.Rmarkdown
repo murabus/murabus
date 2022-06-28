@@ -144,7 +144,7 @@ help grmap
 Below, we are using 7 intervals and through the custom option we define the breaking points for these intervals. We are using the *Greens* color scheme from Brewer and we are including the count as a legend (but without an explanatory text). 
 ```
 grmap mosquedens, clnumber(7) clmethod(custom) ///
-clbreaks(0 1 2 3 4 6 20) fcolor(Greems) legcount
+clbreaks(0 1 2 3 4 6 20) fcolor(Greens) legcount
 ```
 We can save our map as a regular Stata .gph file, which is :cool:.
 ```
@@ -155,7 +155,7 @@ We can export it to a number of formats.
 graph export "mosquedensity.pdf", replace
 graph export "mosquedensity.svg", replace
 ```
-Thanks for reading!
+Thanks for reading![^7]
 
 
 [^1]: For a more detailed and formal introduction, please see the multi-part series of [Asjad Naqvi](https://medium.com/the-stata-guide/covid-19-visualizations-with-stata-part-4-maps-fbd4fe2642f6).
@@ -164,3 +164,4 @@ Thanks for reading!
 [^4]: Note that I compiled this dataset to reflect mosque density for each of 973 administrative districts in Turkey.
 [^5]: Healy, Kieran. 2018. *Data Visualization: A Practical Introduction.* Princeton University Press. 
 [^6]: Unique identifiers are also referred to as *keys*.
+[^7]: Screenshots are from Stata IC 16.1 running on a Linux machine (Ubuntu 22.04 / GNOME 42.1)
