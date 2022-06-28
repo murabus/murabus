@@ -53,19 +53,16 @@ spshape2dta tur_polbnda_adm2, replace
 We will see the following output on the console, confirming that Stata used all the shapefiles to create a .dta file that we can manipulate.
 
 ![my-first-image](image1.png)
-
-
+Let us load this dataset and have a look at it. 
 ```
 use "tur_polbnda_adm2.dta", clear
 describe
 ```
 ![my-second-image](image2.png)
-Looking at the generated dataset
+Looking at the generated dataset, there are two important variables. These are the "_ID" and "pcode" variables. The main logic here is to be able to have a unique identifier for each geographic unit. A note from this dataset is that even though "_ID" variable starts from 1 and increases the corresponding "pcode" variable does not start with the first district (alphabetical or the first province). This is an important concern, so we will do some data cleaning to make sure that the first district has an "id" of "1" and corresponds to "TUR01001".
 
 ![my-third-image](image3.png)
-
-
-
+"pcode" variable is string, so we can not do any manipulation, so with the following code we first encode it and then based on the code we sort the dataset. In order to have a second variable to use in uniquely identifying each unit, we also generate a new "id" variable startimg from 1. We want to have an ordered dataset with two unique identifiers for each geographical unit.
 
 ```
 encode pcode, generate(dcode)
@@ -74,6 +71,7 @@ rename dcode pcode
 sort pcode
 gen id = _n 
 ```
+Let us check our work.
 
 ```
 describe
