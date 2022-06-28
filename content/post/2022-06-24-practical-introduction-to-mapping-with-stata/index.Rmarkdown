@@ -21,6 +21,8 @@ image:
 projects: []
 ---
 
+
+
 [Shapefiles](https://data.humdata.org/dataset/turkey-administrative-boundaries-levels-0-1-2) 
 
 We will need the **turkey_administrativelevels0_1_2.zip** file. This zip file contains the administrative boundaries for the country, provinces, and districts. In this tutorial, we will create a detailed map, and we will need to use the ...
