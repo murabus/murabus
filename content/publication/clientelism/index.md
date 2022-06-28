@@ -33,15 +33,17 @@ tags:
 
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: ''
+links:
+ - name: SSRN
+   url: https://github.com/murabus/elections-data/blob/main/Codebook_Elections%20and%20Dependency.pdf
+ - name: Codebook
+   url: https://github.com/murabus/elections-data/blob/main/Codebook_Elections%20and%20Dependency.pdf
+url_pdf: uploads/abus_clientelism.do
 url_code: uploads/abus_clientelism.do
-url_dataset: ''
+url_dataset: uploads/abus_clientelism.do
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: uploads/abus_clinetelism.do
 url_source: ''
 url_video: ''
 
