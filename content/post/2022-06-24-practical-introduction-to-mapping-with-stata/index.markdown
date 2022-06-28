@@ -76,6 +76,8 @@ Let us check our work.
 ```
 describe
 ```
+![my-fourth-image](image4.png)
+
 
 ```
 save "tur_polbnda_adm2.dta", replace

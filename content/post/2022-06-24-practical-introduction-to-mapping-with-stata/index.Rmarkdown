@@ -76,10 +76,14 @@ Let us check our work.
 ```
 describe
 ```
+![my-fourth-image](image4.png)
+We have our id variable and pcode variable is not string anymore. All looks good, so we can save our map dataset:
 
 ```
 save "tur_polbnda_adm2.dta", replace
 ```
+
+
 
 ```
 spset
