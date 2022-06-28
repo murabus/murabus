@@ -77,22 +77,22 @@ Let us check our work.
 describe
 ```
 ![my-fourth-image](image4.png)
-We have our id variable and pcode variable is not string anymore. All looks good, so we can save our map dataset:
+We have our *id* variable and *pcode* variable is not string anymore. All looks good, so we can save our map dataset:
 
 ```
 save "tur_polbnda_adm2.dta", replace
 ```
-
-
+Just like we define a time-series dataset to Stata using the "tsset" command, while our dataset is in memory, we define it as a spatial dataset with the following command:
 
 ```
 spset
 ```
+In order to check if this definition is successful, we use Stata's built-in **grmap** command to see if Stata can draw the borders in this dataset. This is the spatial dataset and will include only the borders.
 
 ```
-* ssc install grmap
 grmap
 ```
+
 
 ```
 spset, modify coordsys(latlong, kilometers)
