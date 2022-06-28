@@ -21,6 +21,9 @@ image:
 projects: []
 ---
 
+In this tutorial, we will draw a chloropleth map (assigning various colors to levels of a variable to show intensity) of mosque density in Turkey at the district level.[^1] In this first step of spatial analysis, we need two separate things: A map with the required boundaries marking the units we are interested in, and substantive data corresponding to the geographical units marked by the borders in the map.
+[^1]: For a more detailed and formal introduction, please see the multi-part series of [Asjad Naqvi](https://medium.com/the-stata-guide/covid-19-visualizations-with-stata-part-4-maps-fbd4fe2642f6).
+
 [Shapefiles](https://data.humdata.org/dataset/turkey-administrative-boundaries-levels-0-1-2) 
 
 We will need the **turkey_administrativelevels0_1_2.zip** file. This zip file contains the administrative boundaries for the country, provinces, and districts. In this tutorial, we will create a detailed map, and we will need to use the ...
@@ -36,6 +39,8 @@ We will need the following files:
 7. tur_polbnda_adm2.shp.xml
 8. tur_polbnda_adm2.shx
 
+
+[substantive dataset](https://github.com/murabus/religion_data/blob/main/abus_mosque_density.dta)
 
 
 
