@@ -102,7 +102,7 @@ spset, modify coordsys(latlong, kilometers)
 save "tur_polbnda_adm2.dta", replace
 ```
 
-## 2.
+## 2. Merging Datasets
 
 ```
 use "abus_mosque_density.dta", clear
@@ -125,7 +125,7 @@ merge 1:1 pcode id using "tur_polbnda_adm2.dta"
 drop _merge
 ```
 
-## 3. 
+## 3. The Map!
 
 ```
 grmap mosquedens, clnumber(7) clmethod(custom) ///
