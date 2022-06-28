@@ -87,12 +87,15 @@ Just like we define a time-series dataset to Stata using the "tsset" command, wh
 ```
 spset
 ```
+![spset](image7.png)
+
 In order to check if this definition is successful, we use Stata's built-in **grmap** command to see if Stata can draw the borders in this dataset. This is the spatial dataset and will include only the borders.
 
 ```
 grmap
 ```
-
+![grmap](image8.png)
+devam edilecek 
 
 ```
 spset, modify coordsys(latlong, kilometers)
@@ -108,6 +111,7 @@ save "tur_polbnda_adm2.dta", replace
 use "abus_mosque_density.dta", clear
 describe
 ```
+![substantivedata](image5.png)
 
 ```
 use "tur_polbnda_adm2.dta", clear
@@ -120,6 +124,7 @@ use "abus_mosque_density.dta", clear
 ```
 merge 1:1 pcode id using "tur_polbnda_adm2.dta"
 ```
+![merge](image6.png)
 
 ```
 drop _merge
