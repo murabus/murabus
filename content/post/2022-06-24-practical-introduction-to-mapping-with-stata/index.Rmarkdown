@@ -137,19 +137,26 @@ drop _merge
 
 ## 3. The Map!
 
+Now we have a dataset that is "spset" and includes the spatial information of the variable of interest (mosque density). It is now a matter of issuing a **grmap** command with the variable to be mapped (here mosquedens). **grmap** has alot of options that can be checked by 
+```
+help grmap
+```
+Below, we are using 7 intervals and through the custom option we define the breaking points for these intervals. We are using the *Greens* color scheme from Brewer and we are including the count as a legend (but without an explanatory text). 
 ```
 grmap mosquedens, clnumber(7) clmethod(custom) ///
-clbreaks(0 1 2 3 4 6 20) fcolor(Greys) legcount
+clbreaks(0 1 2 3 4 6 20) fcolor(Greems) legcount
 ```
-
+We can save our map as a regular Stata .gph file, which is cool.
 ```
 save "mosquedensity.gph", replace
 ```
-
+We can export it to a number of formats.
 ```
 graph export "mosquedensity.pdf", replace
 graph export "mosquedensity.svg", replace
 ```
+
+
 
 [^1]: For a more detailed and formal introduction, please see the multi-part series of [Asjad Naqvi](https://medium.com/the-stata-guide/covid-19-visualizations-with-stata-part-4-maps-fbd4fe2642f6).
 [^2]: Note that for this particular case, the .zip file included files ending with "0", "1", and "2". These correspond to the administrative units of the country. Files with "0" would be used to draw the country borders, files with "1" would be used to draw the province borders and here we are using the files with "2" to draw the district borders. By the same logic, there are separate shapefiles containing information about the railways, waterways, roads, etc.
