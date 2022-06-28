@@ -59,7 +59,7 @@ use "tur_polbnda_adm2.dta", clear
 describe
 ```
 ![my-second-image](image2.png)
-Looking at the generated dataset, there are two important variables. These are the "_ID" and "pcode" variables. The main logic here is to be able to have a unique identifier for each geographic unit. A note from this dataset is that even though "_ID" variable starts from 1 and increases the corresponding "pcode" variable does not start with the first district (alphabetical or the first province). This is an important concern, so we will do some data cleaning to make sure that the first district has an "id" of "1" and corresponds to "TUR01001".
+Looking at the generated dataset, there are two important variables. These are the "_ID" and "pcode" variables. The main logic here is to be able to have a unique identifier for each geographic unit. A note from this dataset is that even though "_ID" variable starts from 1 and increases the corresponding "pcode" variable does not start with the first district (alphabetical or the first province). This is an important concern, so we will do some data cleaning to make sure that the first district has an "id" of "1" and corresponds to "TUR001001".
 
 ![my-third-image](image3.png)
 "pcode" variable is string, so we can not do any manipulation, so with the following code we first encode it and then based on the code we sort the dataset. In order to have a second variable to use in uniquely identifying each unit, we also generate a new "id" variable startimg from 1. We want to have an ordered dataset with two unique identifiers for each geographical unit.
@@ -95,37 +95,42 @@ In order to check if this definition is successful, we use Stata's built-in **gr
 grmap
 ```
 ![grmap](image8.png)
-devam edilecek 
+This confirms that our map data is properly defined as we see the borders of districts drawn.
+Next order of business is the coordinate system. In the console output above we see that the coordinate system is planar, so we are modifying it with the following command:
 
 ```
 spset, modify coordsys(latlong, kilometers)
 ```
+Our preliminary work is done. We prepared our map dataset to be used in the analysis. Now we need to merge the datasets in such a way that the new dataset will now not only have borders (spatial information) but also values of our variable of interest (here mosque density) corresponding to each of those units. So, it will be possible to create a chloropleth map. We save our dataset before proceeding.
 
 ```
 save "tur_polbnda_adm2.dta", replace
 ```
 
 ## 2. Merging Datasets
+Let us load our substantive dataset of this tutorial and have a look at it. 
 
 ```
 use "abus_mosque_density.dta", clear
 describe
 ```
+A look at the first few lines of the dataset show that each district has an *id* variable starting from 1 and the counting starts from the very first district of the first province (*pcode* starts from "TUR001001"). This is the way I prepared this substantive dataset and I suggest using two unique identifiers[^6] for each observation as a best practice.
 ![substantivedata](image5.png)
-
+We first load our spatial dataset:
 ```
 use "tur_polbnda_adm2.dta", clear
 ```
 
+Then we load our master dataset (substantial dataset).
 ```
 use "abus_mosque_density.dta", clear    
 ```
-
+The second dataset we load in this workflow is our main dataset. The code below allows us to merge the datasets. In effect, we are adding spatial data to our dataset. We are using our two unique identifiers. This means those observations that are uniquely identified in both datasets become one observation and additional information is added to that observation (here spatial data).
 ```
 merge 1:1 pcode id using "tur_polbnda_adm2.dta"
 ```
 ![merge](image6.png)
-
+The Stata console output shows that there was a match of 973 districts. The benefit of spending time and thinking about identifiers and data cleaning is usually to prevent problems with merging at this stage. In order to keep our data clean of unncessary variables, we drop the *_merge* variable:
 ```
 drop _merge
 ```
@@ -151,3 +156,4 @@ graph export "mosquedensity.svg", replace
 [^3]: This tutorial assumes that the files be placed in a single folder. Beyond that there is no assumption about any particular folder-subfolder structure choice.
 [^4]: Note that I compiled this dataset to reflect mosque density for each of 973 administrative districts in Turkey.
 [^5]: Healy, Kieran. 2018. *Data Visualization: A Practical Introduction.* Princeton University Press. 
+[^6]: Unique identifiers are also referred to as *keys*.
