@@ -36,15 +36,16 @@ Now that we have our shapefile in folder, we will need to generate / get our sub
 
 Before we get down to it, two words of advice: First, it is important to realize these types of detailed maps do not show causation *per se* (Healy 2018, 182).[^5] Second, I intentionally did not provide a .do file so that the reader will type the commands themselves, and generate their own .do files with the comments that they think will be useful in the future. This - I have been led to believe - is a best practice in learning.
 
-
+Let us start typing those commands!
 
 ## 1. Preliminaries
 
-liausefhrlwiu lOEWDFHew lwiuedfioawuef, asdjflkasjdfhl 
+First order of business, as usual, is to check where in the file system we are. Using the following command, check the current working directory and point Stata to the folder of our files by Shift+Control+F. 
 
 ```
 pwd
 ```
+Now that we are where we want to be in the file system, we will use Stata's built-in spatial commands. First, issue the following command to have Stata use all the shapefiles in our folder to generate a .dta dataset that we can manipulate using Stata.
 
 ```
 spshape2dta tur_polbnda_adm2, replace
