@@ -32,9 +32,9 @@ In this tutorial, we will draw a chloropleth map (assigning various colors to le
 7. tur_polbnda_adm2.shp.xml
 8. tur_polbnda_adm2.shx
 
-Now that we have our shapefile in folder, we will need to generate / get our substantive data for the variable that we want to map.[^3]For this tutorial, grab the [substantive dataset](https://github.com/murabus/religion_data/blob/main/abus_mosque_density.dta) and place it in the same folder as with the shapefiles. 
+Now that we have our shapefile in folder, we will need to generate / get our substantive data for the variable that we want to map.[^3]For this tutorial, grab the [substantive dataset](https://github.com/murabus/religion_data/blob/main/abus_mosque_density.dta) and place it in the same folder as with the shapefiles.[^4] 
 
-
+Before we get down to it, two words of advice: First, it is important to realize these types of detailed maps do not show causation *per se* (Healy 2018, 182).[^5] Second, I intentionally did not provide a .do file so that the reader will type the commands themselves, and generate their own .do files with the comments that they think will be useful in the future. This - I have been led to believe - is a best practice in learning.
 
 
 
@@ -141,3 +141,5 @@ graph export "mosquedensity.svg", replace
 [^1]: For a more detailed and formal introduction, please see the multi-part series of [Asjad Naqvi](https://medium.com/the-stata-guide/covid-19-visualizations-with-stata-part-4-maps-fbd4fe2642f6).
 [^2]: Note that for this particular case, the .zip file included files ending with "0", "1", and "2". These correspond to the administrative units of the country. Files with "0" would be used to draw the country borders, files with "1" would be used to draw the province borders and here we are using the files with "2" to draw the district borders. By the same logic, there are separate shapefiles containing information about the railways, waterways, roads, etc.
 [^3]: This tutorial assumes that the files be placed in a single folder. Beyond that there is no assumption about any particular folder-subfolder structure choice.
+[^4]: Note that I compiled this dataset to reflect mosque density for each of 973 administrative districts in Turkey.
+[^5]: Healy, Kieran. 2018. *Data Visualization: A Practical Introduction.* Princeton University Press. 
