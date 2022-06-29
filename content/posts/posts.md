@@ -24,7 +24,7 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 7
+  count: 0
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -36,4 +36,4 @@ design:
   columns: '1'
 ---
 
-I occasionally muse on things. The ideas I express here are my own and do not necessarily reflect those of any institution. If you find any of these useful, please acknowledge the source. Thank you!
+I occasionally muse on things. It is highly likely that my ideas draw on others, and I do my best to acknowledge my intellectual debt to others. The ideas I express here do not necessarily reflect those of any institution. If you find anything from my opinion pieces to be useful, please let me know and acknowledge the source. Thank you!

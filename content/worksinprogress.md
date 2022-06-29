@@ -7,28 +7,16 @@ date: '2022-06-22'
 <h1 style="color:#ae1717;">Works in Progress</h1>
 <hr/>
 
-### Blog Posts
+### Submission
 
-[Did the Yield Curve Flip? Will the Economy
-Dip?](https://www.frbsf.org/our-district/about/sf-fed-blog/did-yield-curve-flip-will-economy-dip/),
-with Thomas Mertens, SF Fed Blog, February 27, 2019.
+Electoral Breakthrough and Persistence under Authoritarianism
 
-[The spanning hypothesis and risk premia in long-term
-bonds](https://voxeu.org/article/spanning-hypothesis-and-risk-premia-long-term-bonds),
-with James Hamilton, VoxEU, July 7, 2017.
+### Conference Paper
 
-### SF Fed Economic Letters
+Immigration and Governance
 
-[Climate Change Costs Rise as Interest Rates
-Fall](https://www.frbsf.org/economic-research/publications/economic-letter/2021/october/climate-change-costs-rise-as-interest-rates-fall/),
-with Glenn Rudebusch, October 20, 2021.
+Reforming for Backsliding? 
 
-[Can We Rely on Market-Based Inflation
-Forecasts?](https://www.frbsf.org/economic-research/publications/economic-letter/2015/september/market-based-inflation-forecasting-and-alternative-methods/),
-with Erin McCarthy, September 21, 2015. ([Addendum](https://www.frbsf.org/economic-research/files/el2015-30addendum.pdf)
-with technical details)
+### Manuscript
 
-[Monetary Policy and Interest Rate Uncertainty](https://www.frbsf.org/economic-research/publications/economic-letter/2012/december/monetary-policy-interest-rate-uncertainty/), December 24, 2012.
-
-[What Moves the Interest Rate Term Structure?](https://www.frbsf.org/economic-research/publications/economic-letter/2011/november/interest-rate-structure/), November 7, 2011.
 
