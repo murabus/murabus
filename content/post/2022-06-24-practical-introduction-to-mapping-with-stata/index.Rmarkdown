@@ -2,7 +2,7 @@
 title: Practical Introduction to Mapping with Stata
 authors: 
   - admin
-date: '2022-06-24'
+date: '2022-06-29'
 slug: practical-introduction-to-mapping-with-stata
 categories:
   - Tutorial
@@ -12,7 +12,7 @@ tags:
   - Chloropleth map
 subtitle: "This is a relatively short, practical introduction to mapping with Stata designed to get the newcomer started in no time and provide a quick refresher as needed." 
 summary: "This is a relatively short, practical introduction to mapping with Stata designed to get the newcomer started in no time and provide a quick refresher as needed." 
-lastmod: '2022-06-24'
+lastmod: '2022-06-29'
 featured: no
 image:
   caption: ''

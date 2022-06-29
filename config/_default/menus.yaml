@@ -13,7 +13,7 @@ main:
   - name: Research
     url: '/research/'
     weight: 30
-  - name: Works in Progress
+  - name: Work in Progress
     url: '/worksinprogress/'
     weight: 30
   - name: Teaching
