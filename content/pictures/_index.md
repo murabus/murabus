@@ -267,7 +267,7 @@ gallery_item:
   caption: 
   - album: gallery
   image:  'd73.jpg'
-  caption:  11/09/2013, Boarding the Majestic Ilyushin 96-300 of Aeroflot for the Moscow-Istanbul flight.   
+  caption:  11/09/2013, Boarding the majestic Ilyushin 96-300 of Aeroflot for the Moscow-Istanbul flight.   
 ---
 
 

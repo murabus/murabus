@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: <h1 style="color:#ae1717;">Posts</h1>
-
+ <hr/>
 content:
   # Filter on criteria
   filters:
