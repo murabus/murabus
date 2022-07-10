@@ -14,15 +14,12 @@ design:
 
 ### <h2 style="color:#ae1717;">1. Teaching Assistant</h2> 
 
-
 ### i) POLS 200 Foundations of Political Science, Texas A&M University, Spring 2022
-
 I served as a teaching assistant for José Antonio Cheibub.
 
 {{< icon name="download" pack="fas" >}} [Download course evaluation](/uploads/POLS200_evaluation_Spring_2022.pdf)
 
 ### ii) POLS 200 Foundations of Political Science, Texas A&M University, Fall 2021
-
 I served as a teaching assistant for Michelle Taylor-Robinson.
 
 {{< icon name="download" pack="fas" >}} [Download course evaluation](/uploads/POLS200_evaluation_Fall_2021.pdf)

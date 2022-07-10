@@ -146,6 +146,8 @@ Below, we are using 7 intervals and through the custom option we define the brea
 grmap mosquedens, clnumber(7) clmethod(custom) ///
 clbreaks(0 1 2 3 4 6 20) fcolor(Greens) legcount
 ```
+![themap](mosquedensity.png)
+
 We can save our map as a regular Stata .gph file, which is :cool:.
 ```
 save "mosquedensity.gph", replace
