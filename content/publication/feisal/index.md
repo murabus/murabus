@@ -37,10 +37,10 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://www.researchgate.net/publication/335158520_Imperial_Politics_and_Feisal's_Arab_Government_in_Syria_1918-1920
 url_code: ''
 url_dataset: ''
-url_poster: uploads/abus_reforms_poster-TAMU.pdf
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
