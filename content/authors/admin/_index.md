@@ -45,6 +45,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Murat-Abus
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/GNP-2347-2022
 superuser: true
 title: Murat Abus
 ---
