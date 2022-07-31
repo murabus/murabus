@@ -9,7 +9,7 @@ categories:
 tags:
   - Stata
   - Mapping
-  - Chloropleth map
+  - Choropleth map
 subtitle: "This is a relatively short, practical introduction to mapping with Stata designed to get the newcomer started in no time and provide a quick refresher as needed." 
 summary: "This is a relatively short, practical introduction to mapping with Stata designed to get the newcomer started in no time and provide a quick refresher as needed." 
 lastmod: '2022-06-29'
@@ -21,7 +21,7 @@ image:
 projects: []
 ---
 
-In this tutorial[^1], we will draw a chloropleth map (assigning various colors to levels of a variable to show intensity) of mosque density in Turkey at the district level.[^2] In this first step of spatial analysis, we need two separate things: A map with the required boundaries marking the units we are interested in, and substantive data corresponding to the geographical units marked by the borders in the map. The map files are freely available on the internet, and the one we will use can be obtained from  [Shapefiles](https://data.humdata.org/dataset/turkey-administrative-boundaries-levels-0-1-2). We will need the **turkey_administrativelevels0_1_2.zip** file. This zip file contains the administrative boundaries for the country, provinces, and districts. In this tutorial, we are creating a map at the district level and this is the second level. After unzipping the file, extract the following files to a folder of your choice:[^3]
+In this tutorial[^1], we will draw a choropleth map (assigning various colors to levels of a variable to show intensity) of mosque density in Turkey at the district level.[^2] In this first step of spatial analysis, we need two separate things: A map with the required boundaries marking the units we are interested in, and substantive data corresponding to the geographical units marked by the borders in the map. The map files are freely available on the internet, and the one we will use can be obtained from  [Shapefiles](https://data.humdata.org/dataset/turkey-administrative-boundaries-levels-0-1-2). We will need the **turkey_administrativelevels0_1_2.zip** file. This zip file contains the administrative boundaries for the country, provinces, and districts. In this tutorial, we are creating a map at the district level and this is the second level. After unzipping the file, extract the following files to a folder of your choice:[^3]
 
 1. tur_polbnda_adm2.cpg
 2. tur_polbnda_adm2.dbf
@@ -101,7 +101,7 @@ Next order of business is the coordinate system. In the console output above we 
 ```
 spset, modify coordsys(latlong, kilometers)
 ```
-Our preliminary work is done. We prepared our map dataset to be used in the analysis. Now we need to merge the datasets in such a way that the new dataset will now not only have borders (spatial information) but also values of our variable of interest (here mosque density) corresponding to each of those units. So, it will be possible to create a chloropleth map. We save our dataset before proceeding.
+Our preliminary work is done. We prepared our map dataset to be used in the analysis. Now we need to merge the datasets in such a way that the new dataset will now not only have borders (spatial information) but also values of our variable of interest (here mosque density) corresponding to each of those units. So, it will be possible to create a choropleth map. We save our dataset before proceeding.
 
 ```
 save "tur_polbnda_adm2.dta", replace
