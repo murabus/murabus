@@ -47,7 +47,7 @@ social:
   link: https://www.researchgate.net/profile/Murat-Abus
 - icon: publons
   icon_pack: ai
-  link: https://publons.com/researcher/GNP-2347-2022
+  link: https://www.webofscience.com/wos/author/rid/GNP-2347-2022
 superuser: true
 title: Murat Abus
 ---
