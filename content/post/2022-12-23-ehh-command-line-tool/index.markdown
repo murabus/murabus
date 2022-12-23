@@ -20,7 +20,7 @@ image:
 projects: []
 ---
 
-This short post is an illustration of a powerful command line tool: [**ehh**]{https://github.com/lennardv2/ehh}. Using this tool, we can save commands under categories together with aliases and descriptions in command line environment. Although this tool is especially suited for longer commands, keeping track of commands used daily together in an ordered way will pay off.
+This short post is an illustration of a powerful command line tool: [**ehh**](https://github.com/lennardv2/ehh). Using this tool, we can save commands under categories together with aliases and descriptions in command line environment. Although this tool is especially suited for longer commands, keeping track of commands used daily together in an ordered way will pay off.
 
 After installation, we can access the list of commands already stored by typing
 
@@ -43,10 +43,10 @@ We add in the command (adding a (:package) will mean the command will require th
 
 ![my-second-image](2.png)
 
-We can see that our command is now saved under the ``software'' category:
+We can see that our command is now saved under the ``software'' category:  
 
 ![my-third-image](3.png)
-To iluustrate the usage, we will update JabRef from version 5.7 to 5.8. After downloading the .deb package, we go to downloads folder and call our command by ehh followed by the alias:
+To illustrate the usage, we will update JabRef from version 5.7 to 5.8. After downloading the .deb package, we go to downloads folder and call our command by ehh followed by the alias:
 
 ```
 ehh deb
@@ -56,6 +56,6 @@ The prompt package: asks us to input the name of the package. When we do that, J
 ![my-third-image](4.png)
 Thanks for reading![^1]
 
-[^1]: Screenshots are from Stata IC 16.1 running on a Linux machine (Ubuntu 22.04.1 / GNOME 42.5)
+[^1]: Screenshots are from a Linux machine (Ubuntu 22.04.1 / GNOME 42.5)
 
 
