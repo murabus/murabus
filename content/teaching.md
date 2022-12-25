@@ -15,7 +15,11 @@ design:
 ### <h2 style="color:#ae1717;">1. Teaching Assistant</h2> 
 
 ### i) POLS 209 Introduction to Political Science Research Methods, Texas A&M University, Fall 2022
-I am serving as a teaching assistant for Carlo Horz for 2 lab sections.
+I served as a teaching assistant for Carlo Horz for 2 lab sections.
+
+{{< icon name="download" pack="fas" >}} [Download course evaluation section 1](/uploads/POLS209_evaluation_Fall_2022_1.pdf)
+
+{{< icon name="download" pack="fas" >}} [Download course evaluation section 2](/uploads/POLS209_evaluation_Fall_2022_2.pdf)
 
 ### ii) POLS 200 Foundations of Political Science, Texas A&M University, Spring 2022
 I served as a teaching assistant for José Antonio Cheibub.
