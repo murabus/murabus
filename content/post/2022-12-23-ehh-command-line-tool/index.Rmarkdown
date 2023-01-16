@@ -9,8 +9,9 @@ categories:
 tags:
   - Linux
   - Command Line
-subtitle: "This is an illustration of a useful command line tool."
-summary: "This is an illustration of a useful command line tool."
+  - OSX
+subtitle: "This is an illustration of a useful command line tool to store commands."
+summary: "This is an illustration of a useful command line tool to store commands."
 lastmod: '2022-12-23'
 featured: no
 image:
