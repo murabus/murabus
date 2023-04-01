@@ -1,5 +1,5 @@
 ---
-bio: I study political behavior, political economy, autocratization, and methodology.
+bio: I study political behavior, public opinion, democracy / autocracy, gender in politics, and methodology.
 education:
   courses:
   - course: PhD in Political Science
