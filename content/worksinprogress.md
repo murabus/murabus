@@ -10,7 +10,7 @@ date: '2022-12-25'
 
 ### Submission :bookmark_tabs:
 
-<font size="3">Election Administration (solo) </font>
+<font size="3">Election Administration (sole-author) </font>
 
 ### Conference Paper :chart_with_upwards_trend:
 
@@ -22,9 +22,9 @@ Comparative Analysis of Administrative Reforms (co-author)
 ### Data Gathering & Analysis :floppy_disk:
 
 <font size="3">
-Gender in Parliamentary Democracies                                                                                           
+Gender in Parliamentary Democracies (sole-author)                                                                                           
                                                                        
-Voter Confidence                                                                                                                                   
+Voter Confidence  (sole-author)                                                                                                                                 
 
 </font>
  
