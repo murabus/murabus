@@ -1,5 +1,5 @@
 ---
-title: "A Theory of Gender's Effect on Vote SHift with a Test Based on Turkish Elections"
+title: "A Theory of Gender's Effect on Vote Shift with a Test Based on Turkish Elections"
 authors:
 - admin
 author_notes:
