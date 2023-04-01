@@ -1,5 +1,5 @@
 ---
-title: "Democratization in the Balkans, 1990-2002"
+title: "A Theory of Gender's Effect on Vote SHift with a Test Based on Turkish Elections"
 authors:
 - admin
 author_notes:
@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "Mediterranean Politics"
 publication_short: "Medit. Pol.s"
 
-abstract: Despite great advances in the last decades, there is an enduring gender gap in a majority of the countries. Gender is prevalent in all aspects of life, and it is impossible to avoid gender roles. The choices regarding gender roles are threefold: Accept them, reject them, or have an ambivalent stand. When voters grow incongruous with their parties, they look for an alternative which is ideologically closer to them. However, evaluating this vote shift without the full effect of gender will provide an incomplete picture of electoral politics. I theorize that when voters are faced with female candidates or female party leaders, their assessment of gender roles will be a deciding factor for whether the intended vote shift will be realized. I apply this extended theory of ideological and gender role congruity to a high gender gap context, Turkey, utilizing district level electoral data. Taking into account the spatial dependence of factors that affect voting behaviour, I empirically demonstrate that for two ideologically opposing parties, the salience of gender politics through the ranking of female candidates on the closed-lists and presence of national female leadership affected their vote share in line with my theoretical expectations in the 2018 general election.
+abstract: Despite great advances in the last decades, there is an enduring gender gap in a majority of the countries. Gender is prevalent in all aspects of life, and it is impossible to avoid gender roles. The choices regarding gender roles are threefold. Accept them, reject them, or have an ambivalent stand. When voters grow incongruous with their parties, they look for an alternative which is ideologically closer to them. However, evaluating this vote shift without the full effect of gender will provide an incomplete picture of electoral politics. I theorize that when voters are faced with female candidates or female party leaders, their assessment of gender roles will be a deciding factor for whether the intended vote shift will be realized. I apply this extended theory of ideological and gender role congruity to a high gender gap context, Turkey, utilizing district level electoral data. Taking into account the spatial dependence of factors that affect voting behaviour, I empirically demonstrate that for two ideologically opposing parties, the salience of gender politics through the ranking of female candidates on the closed-lists and presence of national female leadership affected their vote share in line with my theoretical expectations in the 2018 general election.
 
 # Summary. An optional shortened abstract.
 summary: In this article, I use insights from gender studies and political psychology to develop a new theory of gender's effect on vote shift and test it on Turkish elections.
