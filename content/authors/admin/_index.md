@@ -15,9 +15,9 @@ email: ""
 highlight_name: false
 interests:
 - Political Behavior
-- Political Economy
-- Autocratization
-- Public Policy
+- Public Opinion
+- Autocracy / Democracy
+- Gender in Politics
 - Political Methodology
 organizations:
 - name: Texas A&M University
