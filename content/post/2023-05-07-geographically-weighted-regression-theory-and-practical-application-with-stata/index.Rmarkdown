@@ -22,7 +22,6 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
-output: md_document
 ---
 
 We now know that the answer to Sir Francis Galton's problem[^1] lies in spatial autocorrelation occurring through two main processes: There might be a spillover in outcomes or there might be clustering on attributes[^2]. We also know that we can utilize global and local measures of spatial autocorrelation to test for dependence in the data as a whole and determining the particular units which are correlated with their neighbors. However, the dependence shown by these measures may not be reflecting true spatial dependence, but another type of spatial effect called spatial heterogeneity[^3]. 
