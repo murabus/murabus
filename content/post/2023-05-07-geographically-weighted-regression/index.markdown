@@ -16,7 +16,7 @@ subtitle: "Despite the potential gains in interpretation from Geographically-Wei
   the method and the application and interpretation with Stata are straighforward.
   It is also a valuable tool for exploratory analysis as part of spatial work."
 summary: "This post is a general review of the theory behind Geographically-Weighted
-  Regression and inludes practical application and interpretation with Stata."
+  Regression and includes practical application and interpretation with Stata."
 lastmod: "2023-05-07"
 featured: no
 image:

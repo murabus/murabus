@@ -24,7 +24,7 @@ abstract: The electoral fortunes of political parties under electoral authoritar
 
 
 # Summary. An optional shortened abstract.
-summary: In this paper, I develop a theory of gender-based vote shift and test it oin one of the worst cases of autocratization in the world. 
+summary: In this paper, I develop a theory of gender-based vote shift and test it in one of the worst cases of autocratization in the world. 
 
 tags:
 - Ideological incongruity
