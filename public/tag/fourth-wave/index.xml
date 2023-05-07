@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fourth wave | Murat Abus</title>
+    <link>https://muratabus.com/tag/fourth-wave/</link>
+      <atom:link href="https://muratabus.com/tag/fourth-wave/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fourth wave</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://muratabus.com/media/icon_huad31e523df4f8e5aace4520ae71cf852_1051347_512x512_fill_lanczos_center_3.png</url>
+      <title>Fourth wave</title>
+      <link>https://muratabus.com/tag/fourth-wave/</link>
+    </image>
+    
+    <item>
+      <title>Are We There Yet?</title>
+      <link>https://muratabus.com/publication/mpsa78.2/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratabus.com/publication/mpsa78.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Elections Create or Further Path Dependencies?</title>
+      <link>https://muratabus.com/publication/mpsa78/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratabus.com/publication/mpsa78/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

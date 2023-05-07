@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Political participation | Murat Abus</title>
+    <link>https://muratabus.com/tag/political-participation/</link>
+      <atom:link href="https://muratabus.com/tag/political-participation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Political participation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://muratabus.com/media/icon_huad31e523df4f8e5aace4520ae71cf852_1051347_512x512_fill_lanczos_center_3.png</url>
+      <title>Political participation</title>
+      <link>https://muratabus.com/tag/political-participation/</link>
+    </image>
+    
+    <item>
+      <title>Democracy at the Intersection of Religious Cleavage and Populism</title>
+      <link>https://muratabus.com/publication/mpsa79/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://muratabus.com/publication/mpsa79/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are We There Yet?</title>
+      <link>https://muratabus.com/publication/mpsa78.2/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://muratabus.com/publication/mpsa78.2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

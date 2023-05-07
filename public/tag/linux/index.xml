@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux | Murat Abus</title>
+    <link>https://muratabus.com/tag/linux/</link>
+      <atom:link href="https://muratabus.com/tag/linux/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linux</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://muratabus.com/media/icon_huad31e523df4f8e5aace4520ae71cf852_1051347_512x512_fill_lanczos_center_3.png</url>
+      <title>Linux</title>
+      <link>https://muratabus.com/tag/linux/</link>
+    </image>
+    
+    <item>
+      <title>ehh - A Useful Command Line Tool</title>
+      <link>https://muratabus.com/post/ehh-command-line-tool/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://muratabus.com/post/ehh-command-line-tool/</guid>
+      <description>&lt;p&gt;This short post is an illustration of a powerful command line tool: &lt;a href=&#34;https://github.com/lennardv2/ehh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;ehh&lt;/strong&gt;&lt;/a&gt;. Using this tool, we can save commands under categories together with aliases and descriptions in command line environment. Although this tool is especially suited for longer commands, keeping track of commands used daily together in an ordered way will pay off.&lt;/p&gt;
+&lt;p&gt;After installation, we can access the list of commands already stored by typing&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ehh
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;my-first-image&#34; srcset=&#34;
+               /post/ehh-command-line-tool/1_huf60619138c186b51d7a72468a8c9144a_95079_78e57f2b07448dcda8a5089f8935abb0.webp 400w,
+               /post/ehh-command-line-tool/1_huf60619138c186b51d7a72468a8c9144a_95079_987930fcb713d7c9daaeb94011d84949.webp 760w,
+               /post/ehh-command-line-tool/1_huf60619138c186b51d7a72468a8c9144a_95079_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://muratabus.com/post/ehh-command-line-tool/1_huf60619138c186b51d7a72468a8c9144a_95079_78e57f2b07448dcda8a5089f8935abb0.webp&#34;
+               width=&#34;745&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+We can see that there are categories. I want to add the command to update .deb packages. The command we use for the purpose is:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo dpkg --i install &amp;#34;package name&amp;#34;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In order to save this command to use later, we add it to &lt;strong&gt;ehh&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ehh add
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;We add in the command (adding a (:package) will mean the command will require this input when recalled), we add description (here, update .deb package), alias is how we will call our command and group is where we assign the command.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;my-second-image&#34; srcset=&#34;
+               /post/ehh-command-line-tool/2_hu21b528a592f86585c5cdb972452aed86_19549_fa43dd43eb51cf7259a46c024b083ea3.webp 400w,
+               /post/ehh-command-line-tool/2_hu21b528a592f86585c5cdb972452aed86_19549_acce3cd75df0c43f0b7183a30d090f21.webp 760w,
+               /post/ehh-command-line-tool/2_hu21b528a592f86585c5cdb972452aed86_19549_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://muratabus.com/post/ehh-command-line-tool/2_hu21b528a592f86585c5cdb972452aed86_19549_fa43dd43eb51cf7259a46c024b083ea3.webp&#34;
+               width=&#34;746&#34;
+               height=&#34;206&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We can see that our command is now saved under the ``software&amp;rsquo;&amp;rsquo; category:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;my-third-image&#34; srcset=&#34;
+               /post/ehh-command-line-tool/3_hubb5255c00c5b5bfdf96d6a1f74065ede_28368_793f0c8a7d4a6afe393dc4035ae9c3c6.webp 400w,
+               /post/ehh-command-line-tool/3_hubb5255c00c5b5bfdf96d6a1f74065ede_28368_f090a1762e4d18aa68afe6541107722d.webp 760w,
+               /post/ehh-command-line-tool/3_hubb5255c00c5b5bfdf96d6a1f74065ede_28368_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://muratabus.com/post/ehh-command-line-tool/3_hubb5255c00c5b5bfdf96d6a1f74065ede_28368_793f0c8a7d4a6afe393dc4035ae9c3c6.webp&#34;
+               width=&#34;746&#34;
+               height=&#34;221&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+To illustrate the usage, we will update JabRef from version 5.7 to 5.8. After downloading the .deb package, we go to downloads folder and call our command by ehh followed by the alias:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ehh deb
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The prompt package: asks us to input the name of the package. When we do that, JabRef v5.8 is installed over v5.7.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;my-third-image&#34; srcset=&#34;
+               /post/ehh-command-line-tool/4_hu81c6af3abceb8edc923d3140e07b2745_52715_3861180f935397911c48432f6f85d14c.webp 400w,
+               /post/ehh-command-line-tool/4_hu81c6af3abceb8edc923d3140e07b2745_52715_5d92d151414b91d788982ffe8e64ac8d.webp 760w,
+               /post/ehh-command-line-tool/4_hu81c6af3abceb8edc923d3140e07b2745_52715_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://muratabus.com/post/ehh-command-line-tool/4_hu81c6af3abceb8edc923d3140e07b2745_52715_3861180f935397911c48432f6f85d14c.webp&#34;
+               width=&#34;746&#34;
+               height=&#34;371&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Thanks for reading!&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Screenshots are from a Linux machine (Ubuntu 22.04.1 / GNOME 42.5)&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
