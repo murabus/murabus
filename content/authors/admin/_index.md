@@ -1,10 +1,10 @@
 ---
-bio: I study political behavior, public opinion, democracy / autocracy, gender in politics, and methodology.
+bio: I study political behavior, public opinion, media, democratic theory, gender in politics, and methodology.
 education:
   courses:
   - course: PhD in Political Science
     institution: Syracuse University
-    year: 2023 ->
+    year: 2023 🡒
   - course: PhD in Political Science
     institution: Texas A&M University
     year: 2021 - 2023
