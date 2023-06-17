@@ -17,7 +17,7 @@ design:
 ### <font size="3">i) POLS 200 Foundations of Political Science, Texas A&M University, Spring 2023
 I served as a teaching assistant for Todd Kent for 2 sections.
 
-{{< icon name="download" pack="fas" >}} [Download course evaluation section 2](/uploads/POLS200_evaluation_Spring_2023_2.pdf) </font> 
+{{< icon name="download" pack="fas" >}} [Download course evaluation section 2](/uploads/POLS200_evaluation_Spring_2023_2.pdf) 
 
 ### <font size="3">ii) POLS 209 Introduction to Political Science Research Methods, Texas A&M University, Fall 2022
 I served as a teaching assistant for Carlo Horz for 2 lab sections.
