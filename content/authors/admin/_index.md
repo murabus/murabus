@@ -33,7 +33,7 @@ social:
   link: uploads/cv-abus.pdf
 - icon: envelope
   icon_pack: fas
-  link: mailto:mabus@tamu.edu
+  link: mailto:muabus@syr.edu 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/muratabus
