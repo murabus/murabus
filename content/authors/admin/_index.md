@@ -59,7 +59,7 @@ superuser: true
 title: Murat Abus
 ---
 
-Hello! I am a first-gen Ph.D. student originally from Turkey. I spent considerable time on international assignments (Iraq, Libya, Djibouti) before returning to academia. I am a student of American Politics and Comparative Politics. I enjoy teaching and collaborating. I try to be active in the conference circuit. In addition to Turkish, I speak Russian.
+Hello! I am a first-gen Ph.D. student originally from Turkey. I worked in various industries as well as spent considerable time on international assignments (Iraq, Libya, Djibouti, the Philippines) before returning to academia. I am a student of American Politics and Comparative Politics. I enjoy teaching and collaborating. I try to be active in the conference circuit. In addition to Turkish, I speak Russian.
 
 I am an avid reader. Archaeology, travelling, and cars are my primary hobbies. I am fascinated by the transition from paleolithic to neolithic era, civilizations of the Old World, and late-model classic cars. I grew up in [Erzurum](https://en.wikipedia.org/wiki/Erzurum) in Eastern Turkey with an altitude of 1,900mt (6,233ft) above sea level. 
 
