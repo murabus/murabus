@@ -10,22 +10,34 @@ date: '2022-12-25'
 
 ### Submission :bookmark_tabs:
 
-<font size="3">Election Administration (sole-author) </font>
+<font size="3">Gender in Parliamentary Democracies (co-author) 
+</font>
 
 ### Conference Paper :chart_with_upwards_trend:
 
 <font size="3">
+
 Comparative Analysis of Administrative Reforms (co-author)
+
+Election Administration (sole-author)
+
+Voter Confidence (sole-author)
+
+Gender in Parliamentary Democracies (co-author)
 
 </font>
 
 ### Data Gathering & Analysis :floppy_disk:
-
 <font size="3">
-Gender in Parliamentary Democracies (sole-author)                                                                                           
-                                                                       
-Voter Confidence  (sole-author)                                                                                                                                 
 
+Media and Autocracy (co-author)
+
+Media and Election Administration (co-author)
+
+Media and Voter Confidence (co-author)
+
+Affective Polarization (co-author)
+                                                             
 </font>
  
 ### Manuscript :book:

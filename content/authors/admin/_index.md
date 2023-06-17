@@ -3,8 +3,11 @@ bio: I study political behavior, public opinion, democracy / autocracy, gender i
 education:
   courses:
   - course: PhD in Political Science
+    institution: Syracuse University
+    year: 2023 ->
+  - course: PhD in Political Science
     institution: Texas A&M University
-    year: 2021 ->
+    year: 2021 - 2023
   - course: MA in Political Science
     institution: Arkansas State University
     year: 2021
@@ -16,12 +19,13 @@ highlight_name: false
 interests:
 - Political Behavior
 - Public Opinion
-- Autocracy / Democracy
+- Media / Misinformation
+- Democratic Theory
 - Gender in Politics
 - Political Methodology
 organizations:
-- name: Texas A&M University
-  url: https://www.tamu.edu/
+- name: Syracuse University
+  url: https://www.syracuse.edu/
 role: Ph.D. Student, Political Science
 social:
 - icon: cv
@@ -48,12 +52,15 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://www.webofscience.com/wos/author/rid/GNP-2347-2022
+- icon: dataverse
+  icon_pack: ai
+  link: https://dataverse.harvard.edu/dataverse/harvard?q=%22Abus,%20Murat%22
 superuser: true
 title: Murat Abus
 ---
 
-Hello! I am a first-gen Ph.D. student originally from Turkey. I spent considerable time on international assignments before returning to academia. I am a comparativist studying political behavior, autocratization/democratization, public policy, and methodology. I emphasize developing countries, though this is not exclusive. I enjoy teaching and collaborating. I try to be active in the conference circuit. In addition to Turkish, I speak Russian.
+Hello! I am a first-gen Ph.D. student originally from Turkey. I spent considerable time on international assignments (Iraq, Libya, Djibouti) before returning to academia. I am a student of American Politics and Comparative Politics. I enjoy teaching and collaborating. I try to be active in the conference circuit. In addition to Turkish, I speak Russian.
 
-I am an avid reader. Archaeology, travelling, and cars are my primary hobbies. I am fascinated by the transition from paleolithic to neolithic era, civilizations of the Old World, and late-model classic cars. I grew up in [Erzurum](https://en.wikipedia.org/wiki/Erzurum) in Eastern Turkey with an altitude of 1,900mt (6,233ft) above sea level.
+I am an avid reader. Archaeology, travelling, and cars are my primary hobbies. I am fascinated by the transition from paleolithic to neolithic era, civilizations of the Old World, and late-model classic cars. I grew up in [Erzurum](https://en.wikipedia.org/wiki/Erzurum) in Eastern Turkey with an altitude of 1,900mt (6,233ft) above sea level. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-abus.pdf" "newtab" >}}CV{{< /staticref >}}.
