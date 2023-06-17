@@ -37,7 +37,9 @@ featured: false
 url_pdf: 'https://doi.org/10.1080/13629395.2023.2194154'
 url_code: 'https://doi.org/10.7910/DVN/FSAFCK'
 url_dataset: 'https://doi.org/10.7910/DVN/FSAFCK'
-url_project: uploads/Abus_2004 Feisal's Arab Government in Syria.pdf
+links:
+- name: Supplementary Information
+  url: uploads/a_theory_of_gender's_effect_on_vote_shift(S.I.).pdf
 url_poster: ''
 url_project: ''
 url_slides: ''
