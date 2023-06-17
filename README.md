@@ -1,5 +1,5 @@
 - 👋 Hi, I am @murabus.
-- 🤔 I’m a Ph.D. Student at Bush School Department of Political Science at Texas A\&M University. 
-- 🔭 I’m currently studying autocratization, political behavior, public opinion, and gender in politics.
-- 👯 I’m available for collaboration requests.
+- 🤔 I’m a Ph.D. Student at Syracuse University, Maxwell School of Citizenship and Public Affairs. 
+- 🔭 I’m currently studying public opinion, media, political behavioir, misinformation, democratic theory, gender in politics, and methodology.
+- 👯 I’m available for collaboration and review requests.
 - 📫 How to reach me: [My website](https://www.muratabus.com), [Twitter](https://twitter.com/muratabus)
