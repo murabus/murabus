@@ -34,7 +34,7 @@ tags:
 - Turkey
 featured: false
 
-url_pdf: 'https://doi.org/10.1080/13629395.2023.2194154'
+url_doi: 'https://doi.org/10.1080/13629395.2023.2194154'
 url_code: 'https://doi.org/10.7910/DVN/FSAFCK'
 url_dataset: 'https://doi.org/10.7910/DVN/FSAFCK'
 links:
