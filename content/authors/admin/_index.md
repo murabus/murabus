@@ -18,10 +18,11 @@ email: ""
 highlight_name: false
 interests:
 - Political Behavior
+- Political Communication
 - Public Opinion
-- Media / Misinformation
-- Democratic Theory
-- Gender in Politics
+- Election Science
+- Data Science
+- 
 - Political Methodology
 organizations:
 - name: Syracuse University

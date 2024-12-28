@@ -19,7 +19,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Political Science PhD Student at Syracuse University'
+    description: 'Political Science PhD Candidate at Syracuse University'
     twitter: '@muratabus'
 
 
@@ -40,7 +40,7 @@ header:
 footer:
   copyright:
     notice: '© {year} Murat Abus'
-    license:
+    license: License Information Here
       enable: false
       allow_derivatives: false
       share_alike: false
