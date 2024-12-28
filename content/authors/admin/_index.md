@@ -20,8 +20,6 @@ interests:
 - Political Communication
 - Public Opinion
 - Elections
-- Data Science
-- 
 - Political Methodology
 name: Murat Abus
 organizations:
