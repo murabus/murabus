@@ -40,7 +40,7 @@ header:
 footer:
   copyright:
     notice: '© {year} Murat Abus'
-    license: License Information Here
+    license: 
       enable: false
       allow_derivatives: false
       share_alike: false
