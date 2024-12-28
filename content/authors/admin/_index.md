@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I study political behavior, political communication, public opinion, elections, democratic theory, gender in politics, and methodology.
+bio: I study political behavior, political communication, public opinion, elections, and methodology.
 education:
   courses:
   - course: PhD in Political Science
@@ -19,7 +19,7 @@ interests:
 - Political Behavior
 - Political Communication
 - Public Opinion
-- Election Science
+- Elections
 - Data Science
 - 
 - Political Methodology
