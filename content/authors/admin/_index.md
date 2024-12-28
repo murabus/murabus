@@ -26,7 +26,7 @@ interests:
 organizations:
 - name: Syracuse University
   url: https://www.syracuse.edu/
-role: Ph.D. Student, Political Science
+role: Ph.D. Candidate, Political Science
 social:
 - icon: cv
   icon_pack: ai
