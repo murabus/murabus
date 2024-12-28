@@ -17,7 +17,9 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Political Behavior
+- icon: book
+  icon_pack:fas
+  Political Behavior
 - Public Opinion
 - Media / Misinformation
 - Democratic Theory
