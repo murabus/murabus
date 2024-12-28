@@ -10,7 +10,7 @@ appearance:
   theme_day: mur
   theme_night: mur
   font: native
-  font_size: M
+  font_size: L
 
 # SEO
 
@@ -71,7 +71,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: circle
+    shape: square
   comment:
     provider: ''
     disqus:

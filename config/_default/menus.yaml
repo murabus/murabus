@@ -18,7 +18,7 @@ main:
     weight: 50
   - name: Data
     url: '/data'
-    weight:60
+    weight: 60
     
 
 # Link to a PDF of your resume/CV from the menu.
