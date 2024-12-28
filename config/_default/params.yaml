@@ -39,9 +39,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Murat Abus'
+    notice: '2019- Murat Abus. This work is licensed under {license}'
     license: 
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: false
       allow_commercial: false
