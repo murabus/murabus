@@ -5,6 +5,7 @@ date: '2024-12-28'
 ---
 
 <font size="7"><h1 style="color:#ae1717;">Data</h1>
+<hr/> </font>
 
 <font size="3">
 
@@ -24,7 +25,7 @@ For various projects, I compiled data from publicly available sources and I used
     
     [Educational Gender Gap - Regioms (NUTS-1)](https://)
 
-The user is requested to cite the following paper where I first introduced and used this variable.
+The user is requested to cite the following paper where I first introduced and used this variable. markdown syntax biliyorsuun foot note yap kendi makalene 
 
 
 </font>
