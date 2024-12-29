@@ -99,7 +99,9 @@
     <h3>{{ i18n "interests" | markdownify }}</h3>
     <ul class="ul-interests fa-ul">
       {{ range . }}
-      <li>{{ . | markdownify | emojify }}</li>
+      <li>
+        <i class="fa-li fas fa-book"></i>
+        {{ . | markdownify | emojify }}
       {{ end }}
     </ul>
   </div>
