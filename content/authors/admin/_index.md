@@ -61,7 +61,7 @@ user_groups:
 - Visitors
 ---
 
-</br ></br > Welcome! I am a first-gen PhD Candidate in Political Science at [Maxwell School of Citizenship and Public Affairs](https://www.maxwell.syr.edu/academics/political-science-department). Since August 2024, I am working as the inaugural graduate research assistant at the [Institute for Democracy, Journalism and Citizenhip](https://idjc.syracuse.edu) in Washington, D.C. I am a student of American Politics, Comparative Politics and Methodology. I enjoy teaching and collaborating. I try to be active in the conference circuit. In addition to Turkish, I speak Russian.
+</br ></br > Welcome! I am a first-gen PhD Candidate in Political Science at [Maxwell School of Citizenship and Public Affairs](https://www.maxwell.syr.edu/academics/political-science-department). Since August 2024, I am working as the inaugural graduate research assistant at the [Institute for Democracy, Journalism and Citizenhip](https://idjc.syracuse.edu) in Washington, D.C. I am a student of American Politics, Comparative Politics and Methodology. I study political behavior, political communication, public opinion, elections, and methodology. I enjoy teaching and collaborating. I try to be active in the conference circuit. In addition to Turkish, I speak Russian.
 
 Cars, travelling, and archaeology are three primary things that continue to fascinate me outside of work. Specifically, I am interested in late-model classic cars, the transition from paleolithic to neolithic eras, and civilizations of the Old World. I grew up in [Erzurum](https://en.wikipedia.org/wiki/Erzurum) in Eastern Turkey with an altitude of 1,900mt (6,233ft) above sea level. 
 
