@@ -9637,15 +9637,15 @@ div.chart {
   opacity: 0;
   -webkit-animation: fade-in 1s forwards;
   animation: fade-in 1s forwards;
-  -webkit-animation-delay: 1s;
-  animation-delay: 1s; }
+  -webkit-animation-delay: 1.2s;
+  animation-delay: 1.2s; }
 
 #about .education-div {
   opacity: 0;
   -webkit-animation: fade-in 1s forwards;
   animation: fade-in 1s forwards;
-  -webkit-animation-delay: 1.5s;
-  animation-delay: 1.5s; }
+  -webkit-animation-delay: 1.8s;
+  animation-delay: 1.8s; }
 
 #about .network-icon {
   margin-top: 15px;
@@ -9654,56 +9654,56 @@ div.chart {
     opacity: 0;
     -webkit-animation: grow 2s ease forwards;
     animation: grow 2s ease forwards;
-    -webkit-animation-delay: 1.3s;
-    animation-delay: 1.3s; }
-  #about .network-icon .fa-envelope {
-    opacity: 0;
-    -webkit-animation: grow 2s ease forwards;
-    animation: grow 2s ease forwards;
     -webkit-animation-delay: 1.4s;
     animation-delay: 1.4s; }
-  #about .network-icon .fa-twitter {
+  #about .network-icon .fa-envelope {
     opacity: 0;
     -webkit-animation: grow 2s ease forwards;
     animation: grow 2s ease forwards;
     -webkit-animation-delay: 1.5s;
     animation-delay: 1.5s; }
-  #about .network-icon .fa-graduation-cap {
+  #about .network-icon .fa-twitter {
     opacity: 0;
     -webkit-animation: grow 2s ease forwards;
     animation: grow 2s ease forwards;
     -webkit-animation-delay: 1.6s;
     animation-delay: 1.6s; }
-  #about .network-icon .fa-github {
+  #about .network-icon .fa-graduation-cap {
     opacity: 0;
     -webkit-animation: grow 2s ease forwards;
     animation: grow 2s ease forwards;
     -webkit-animation-delay: 1.7s;
     animation-delay: 1.7s; }
-  #about .network-icon .ai-orcid {
+  #about .network-icon .fa-github {
     opacity: 0;
     -webkit-animation: grow 2s ease forwards;
     animation: grow 2s ease forwards;
     -webkit-animation-delay: 1.8s;
     animation-delay: 1.8s; }
-  #about .network-icon .ai-researchgate {
+  #about .network-icon .ai-orcid {
     opacity: 0;
     -webkit-animation: grow 2s ease forwards;
     animation: grow 2s ease forwards;
     -webkit-animation-delay: 1.9s;
     animation-delay: 1.9s; }
-  #about .network-icon .ai-publons {
+  #about .network-icon .ai-researchgate {
     opacity: 0;
     -webkit-animation: grow 2s ease forwards;
     animation: grow 2s ease forwards;
     -webkit-animation-delay: 2.0s;
     animation-delay: 2.0s; }
-  #about .network-icon .ai-dataverse {
+  #about .network-icon .ai-publons {
     opacity: 0;
     -webkit-animation: grow 2s ease forwards;
     animation: grow 2s ease forwards;
     -webkit-animation-delay: 2.1s;
     animation-delay: 2.1s; }
+  #about .network-icon .ai-dataverse {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+    animation: grow 2s ease forwards;
+    -webkit-animation-delay: 2.2s;
+    animation-delay: 2.2s; }
 
 @-webkit-keyframes grow {
   100% {

@@ -70,16 +70,16 @@
   opacity: 0;
   -webkit-animation: fade-in 1s forwards;
           animation: fade-in 1s forwards;
-  -webkit-animation-delay: 1s;
-          animation-delay: 1s;
+  -webkit-animation-delay: 1.2s;
+          animation-delay: 1.2s;
 }
 
 .education-div {
   opacity: 0;
   -webkit-animation: fade-in 1s forwards;
           animation: fade-in 1s forwards;
-  -webkit-animation-delay: 1.5s;
-          animation-delay: 1.5s;
+  -webkit-animation-delay: 1.8s;
+          animation-delay: 1.8s;
 }
 
 .network-icon {
@@ -91,8 +91,8 @@
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
-      -webkit-animation-delay: 1.3s;
-              animation-delay: 1.3s;
+      -webkit-animation-delay: 1.4s;
+              animation-delay: 1.4s;
     }  
   
     
@@ -100,19 +100,11 @@
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
-      -webkit-animation-delay: 1.4s;
-              animation-delay: 1.4s;
-    }
-    
- .fa-twitter {
-      opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-              animation: grow 2s ease forwards;
       -webkit-animation-delay: 1.5s;
               animation-delay: 1.5s;
     }
-
- .fa-graduation-cap {
+    
+ .fa-twitter {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
@@ -120,31 +112,31 @@
               animation-delay: 1.6s;
     }
 
-  .fa-github {
+ .fa-graduation-cap {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
       -webkit-animation-delay: 1.7s;
               animation-delay: 1.7s;
-    }  
-     
-  .ai-orcid {
+    }
+
+  .fa-github {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
       -webkit-animation-delay: 1.8s;
               animation-delay: 1.8s;
     }  
-    
-  .ai-researchgate {
+     
+  .ai-orcid {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
       -webkit-animation-delay: 1.9s;
               animation-delay: 1.9s;
     }  
-  
-  .ai-publons {
+    
+  .ai-researchgate {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
@@ -152,12 +144,20 @@
               animation-delay: 2.0s;
     }  
   
-  .ai-dataverse {
+  .ai-publons {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
       -webkit-animation-delay: 2.1s;
               animation-delay: 2.1s;
+    }  
+  
+  .ai-dataverse {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 2.2s;
+              animation-delay: 2.2s;
     } 
     
 }
