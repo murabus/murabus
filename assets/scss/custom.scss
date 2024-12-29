@@ -81,4 +81,99 @@
   -webkit-animation-delay: 1.5s;
           animation-delay: 1.5s;
 }
+
+.network-icon {
+    
+    margin-top: 15px;
+    padding: 5px;
+  
+    .ai-cv {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.3s;
+              animation-delay: 1.3s;
+    }  
+  
+    
+    .fa-envelope {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.4s;
+              animation-delay: 1.4s;
+    }
+    
+ .fa-twitter {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.5s;
+              animation-delay: 1.5s;
+    }
+
+ .fa-graduation-cap {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.6s;
+              animation-delay: 1.6s;
+    }
+
+  .fa-github {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.7s;
+              animation-delay: 1.7s;
+    }  
+     
+  .ai-orcid {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.8s;
+              animation-delay: 1.8s;
+    }  
+    
+  .ai-researchgate {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.9s;
+              animation-delay: 1.9s;
+    }  
+  
+  .ai-publons {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 2.0s;
+              animation-delay: 2.0s;
+    }  
+  
+  .ai-dataverse {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 2.1s;
+              animation-delay: 2.1s;
+    } 
+    
+}
+    @-webkit-keyframes grow {
+        100% { opacity: 1; }
+    }
+    
+    @keyframes grow {
+        100% { opacity: 1; }
+    } 
+
+.avatar-square {
+  -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+  clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+}
+
+
+
 }
