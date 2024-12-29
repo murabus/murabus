@@ -27,12 +27,17 @@ organizations:
   url: https://www.syracuse.edu/
 role: Ph.D. Candidate, Political Science
 social:
+- icon: cv
+  icon_pack: ai
+  link: uploads/cv-abus.pdf
 - icon: envelope
   icon_pack: fas
   link: mailto:muabus@syr.edu 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/muratabus
+- icon: bluesky
+  icon_pack: fa
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=U80XvUEAAAAJ&hl=en&oi=ao
@@ -61,7 +66,7 @@ user_groups:
 
 </br ></br > Welcome! I am a first-gen PhD Candidate in Political Science at [Maxwell School of Citizenship and Public Affairs](https://www.maxwell.syr.edu/academics/political-science-department), [Syracuse University](https://www.syracuse.edu). Since August 2024, I am working as the inaugural graduate research assistant at Syracuse University's recently established [Institute for Democracy, Journalism, and Citizenship](https://idjc.syracuse.edu) in Washington, D.C. 
 
-I am a student of American Politics, Comparative Politics and Methodology. I study political behavior, political communication, public opinion, elections, and methodology. I enjoy teaching and collaborating. I believe in exposure through collaboration, and I am a proponent and practitioner of establishing strong connections with students. I try to be active in the conference circuit. In addition to Turkish, I speak Russian.
+I am a student of American Politics, Comparative Politics and Methodology. I enjoy teaching and collaborating. I believe in exposure through collaboration, in the value of interdisciplinary work, and I am a proponent and practitioner of establishing strong connections with students. I try to be active in the conference circuit. In addition to Turkish, I speak Russian.
 
 Outside of the work that I love, cars, travelling, and archaeology are three primary things that continue to fascinate me. Specifically, I am interested in late-model classic cars, the transition from paleolithic to neolithic eras, and civilizations of the Old World.
 
