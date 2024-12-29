@@ -62,7 +62,7 @@
               animation-delay: 1.3s;
     }
     
-    .fa-mastodon {
+    .fa-twitter {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
@@ -70,22 +70,55 @@
               animation-delay: 1.4s;
     }
     
-    .fa-linkedin {
+    .fa-graduation-cap {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
       -webkit-animation-delay: 1.5s;
               animation-delay: 1.5s;
     }
-    
-    .fa-playstation {
+ 
+     .fa-github {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
       -webkit-animation-delay: 1.6s;
               animation-delay: 1.6s;
     }
-    
+ 
+     .fa-orcid {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.7s;
+              animation-delay: 1.7s;
+    }
+ 
+     .fa-researchgate {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.8s;
+              animation-delay: 1.8s;
+    }
+ 
+    .fa-publons {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.9s;
+              animation-delay: 1.9s;
+    }
+
+    .fa-dataverse {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 2.0s;
+              animation-delay: 2.0s;
+    }
+
+
     @-webkit-keyframes grow {
         100% { opacity: 1; }
     }

@@ -27,9 +27,6 @@ organizations:
   url: https://www.syracuse.edu/
 role: Ph.D. Candidate, Political Science
 social:
-- icon: cv
-  icon_pack: ai
-  link: uploads/cv-abus.pdf
 - icon: envelope
   icon_pack: fas
   link: mailto:muabus@syr.edu 

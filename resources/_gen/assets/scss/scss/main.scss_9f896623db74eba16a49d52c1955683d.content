@@ -9635,24 +9635,48 @@ div.chart {
     animation: grow 2s ease forwards;
     -webkit-animation-delay: 1.3s;
     animation-delay: 1.3s; }
-  .network-icon .fa-mastodon {
+  .network-icon .fa-twitter {
     opacity: 0;
     -webkit-animation: grow 2s ease forwards;
     animation: grow 2s ease forwards;
     -webkit-animation-delay: 1.4s;
     animation-delay: 1.4s; }
-  .network-icon .fa-linkedin {
+  .network-icon .fa-graduation-cap {
     opacity: 0;
     -webkit-animation: grow 2s ease forwards;
     animation: grow 2s ease forwards;
     -webkit-animation-delay: 1.5s;
     animation-delay: 1.5s; }
-  .network-icon .fa-playstation {
+  .network-icon .fa-github {
     opacity: 0;
     -webkit-animation: grow 2s ease forwards;
     animation: grow 2s ease forwards;
     -webkit-animation-delay: 1.6s;
     animation-delay: 1.6s; }
+  .network-icon .fa-orcid {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+    animation: grow 2s ease forwards;
+    -webkit-animation-delay: 1.7s;
+    animation-delay: 1.7s; }
+  .network-icon .fa-researchgate {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+    animation: grow 2s ease forwards;
+    -webkit-animation-delay: 1.8s;
+    animation-delay: 1.8s; }
+  .network-icon .fa-publons {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+    animation: grow 2s ease forwards;
+    -webkit-animation-delay: 1.9s;
+    animation-delay: 1.9s; }
+  .network-icon .fa-dataverse {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+    animation: grow 2s ease forwards;
+    -webkit-animation-delay: 2.0s;
+    animation-delay: 2.0s; }
 
 @-webkit-keyframes grow {
   100% {
