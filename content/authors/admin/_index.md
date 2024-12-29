@@ -65,6 +65,6 @@ user_groups:
 
 I am a student of American Politics, Comparative Politics and Methodology. I study political behavior, political communication, public opinion, elections, and methodology. I enjoy teaching and collaborating. I believe in exposure through collaboration, and I am a proponent and practitioner of establishing strong connections with students. I try to be active in the conference circuit. In addition to Turkish, I speak Russian.
 
-Outside of the work that I love, cars, travelling, and archaeology are three primary things that continue to fascinate me. Specifically, I am interested in late-model classic cars, the transition from paleolithic to neolithic eras, and civilizations of the Old World. I grew up in [Erzurum](https://en.wikipedia.org/wiki/Erzurum) in Eastern Turkey with an altitude of 1,900mt (6,233ft) above sea level. 
+Outside of the work that I love, cars, travelling, and archaeology are three primary things that continue to fascinate me. Specifically, I am interested in late-model classic cars, the transition from paleolithic to neolithic eras, and civilizations of the Old World.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-abus.pdf" "newtab" >}}CV{{< /staticref >}}.
