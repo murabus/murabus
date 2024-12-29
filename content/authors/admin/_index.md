@@ -51,6 +51,7 @@ social:
 - icon: dataverse
   icon_pack: ai
   link: https://dataverse.harvard.edu/dataverse/harvard?q=%22Abus,%20Murat%22
+  
 superuser: true
 title: Murat Abus
 user_groups:
@@ -58,7 +59,7 @@ user_groups:
 - Visitors
 ---
 
-</br ></br > Welcome! I am a first-gen PhD Candidate in Political Science at [Maxwell School of Citizenship and Public Affairs](https://www.maxwell.syr.edu/academics/political-science-department), [Syracuse University](https://www.syracuse.edu). Since August 2024, I am working as the inaugural graduate research assistant at Syracuse University's recently established [Institute for Democracy, Journalism and Citizenhip](https://idjc.syracuse.edu) in Washington, D.C. 
+</br ></br > Welcome! I am a first-gen PhD Candidate in Political Science at [Maxwell School of Citizenship and Public Affairs](https://www.maxwell.syr.edu/academics/political-science-department), [Syracuse University](https://www.syracuse.edu). Since August 2024, I am working as the inaugural graduate research assistant at Syracuse University's recently established [Institute for Democracy, Journalism, and Citizenship](https://idjc.syracuse.edu) in Washington, D.C. 
 
 I am a student of American Politics, Comparative Politics and Methodology. I study political behavior, political communication, public opinion, elections, and methodology. I enjoy teaching and collaborating. I believe in exposure through collaboration, and I am a proponent and practitioner of establishing strong connections with students. I try to be active in the conference circuit. In addition to Turkish, I speak Russian.
 
