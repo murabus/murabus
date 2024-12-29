@@ -4,8 +4,9 @@ author: Murat Abus
 date: '2022-12-25'
 ---
 
-<font size="7"><h1 style="color:#ae1717;">Work in Progress</h1>
+<font size="7"><p style="text-align: center; color:#ae1717;">Work in Progress</p>
 <hr/> </font>
+
 <font size="3">These are the projects I am currently involved in: </font>
 
 ### Submission :bookmark_tabs:

@@ -1,10 +1,10 @@
 ---
-title: ''
+title: ""
 author: Murat Abus
 date: '2024-12-28'
 ---
 
-<font size="7"><h1 style="color:#ae1717;">Data</h1>
+<font size="7"><p style="text-align: center; color:#ae1717;">Data</p>
 <hr/> </font>
 
 <font size="3">

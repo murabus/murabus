@@ -9,8 +9,9 @@ design:
     padding: ["0", "0", "0", "0"]  
 ---
 
-<font size="7"><h1 style="color:#ae1717;">Student Testimonials</h1>
+<font size="7"><p style="text-align: center; color:#ae1717;">Student Testimonials</p>
 <hr/> </font>
+
 
 <font size="3"> 
 
