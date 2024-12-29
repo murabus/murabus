@@ -11,7 +11,7 @@ date: '2024-12-28'
 
 For various projects, I compiled data from publicly available sources and I used these to calculate some variables. These data are at the district and regional level in Turkey and I am providing links to these data below: 
 
-1. **Mosque Density**: Number of mosques per district is available, however it is not possible to use this as a control without standardizing. I divided the number of mosques by the district population and generated a mosque density variable (per 10,000 people) that can be used as one more proxy for religiosity. In order to facilitate merging with existing datasets, the mosque density data have district pcodes.
+1. **Mosque Density**: Number of mosques per district is available, however it is not possible to use this as a control without standardizing. I divided the number of mosques by the district population and generated a mosque density variable (per 10,000 people) that can be used as one more proxy for religiosity. In order to facilitate merging with existing datasets, the mosque density data have district pcodes. For a visualization of the data, you may [visit this page](https://www.muratabus.com/post/practical-introduction-to-mapping-with-stata/).
 
     The data can be accessed on my GitHub repo:
     
