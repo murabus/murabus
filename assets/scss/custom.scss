@@ -1,0 +1,103 @@
+/* Animate text coming from right */ 
+.main-content {
+  animation: slide-from-right 1.5s cubic-bezier(0.4, 0, 0.13, 1) forwards;
+  animation-delay: 0ms;
+}
+
+/* Animate CV button coming from right */ 
+.btn-download {
+  opacity: 0;
+  animation: fade-in 2s forwards;
+  animation-delay: 1.4s;
+}
+
+#profile {
+  
+  .avatar-square {
+  -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+  clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+  opacity: 0;
+  position: relative;
+  right: -300px;
+  -webkit-animation: slide-left 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  animation: slide-left 2s forwards cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  }
+
+  .portrait-title {
+    opacity: 0;
+    position: relative;
+    left: -1000px;
+    -webkit-animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+    animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+    
+  }
+  
+  @-webkit-keyframes slide-right {
+      100% { left: 0; opacity: 1}
+  }
+  
+  @keyframes slide-right {
+      100% { left: 0; opacity: 1; }
+  }
+  
+  @-webkit-keyframes slide-left {
+      100% { right: 0; opacity: 1; }
+  }
+  
+  @keyframes slide-left {
+      100% { right: 0; opacity: 1; }
+  }
+}
+
+.network-icon {
+    
+    margin-top: 15px;
+    padding: 5px;
+    
+    .fa-envelope {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.3s;
+              animation-delay: 1.3s;
+    }
+    
+    .fa-mastodon {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.4s;
+              animation-delay: 1.4s;
+    }
+    
+    .fa-linkedin {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.5s;
+              animation-delay: 1.5s;
+    }
+    
+    .fa-playstation {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.6s;
+              animation-delay: 1.6s;
+    }
+    
+    @-webkit-keyframes grow {
+        100% { opacity: 1; }
+    }
+    
+    @keyframes grow {
+        100% { opacity: 1; }
+    } 
+  }
+
+/* This block may have other things in it, if for example you also decided to animate your avatar */
+.avatar-square {
+  -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+  clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+}
+
