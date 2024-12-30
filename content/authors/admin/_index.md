@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I study political behavior, political communication, public opinion, elections, and methodology.
+bio: I study political behavior, political communication, public opinion, elections, political economy, and methodology.
 education:
   courses:
   - course: PhD in Political Science
@@ -20,6 +20,7 @@ interests:
 - Political Communication
 - Public Opinion
 - Elections
+- Political Economy
 - Political Methodology
 name: Murat Abus
 organizations:
