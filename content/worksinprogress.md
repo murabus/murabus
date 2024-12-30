@@ -11,14 +11,14 @@ date: '2022-12-25'
 
 ### Revise & Resubmit :clock930:
 <font size="3">
-Gender in Parliamentary Democracies (co-author) (with Sarah A. Fulton)
+Gender in Parliamentary Democracies (with Sarah A. Fulton)
 
 </font>
 
 
 ### Submission  :heavy_check_mark: 
 <font size="3">
-Election Administration (U.S.) (co-author) (with Kexin Bai and Johanna Dunaway)
+Election Administration (U.S.) (with Kexin Bai and Johanna Dunaway)
 
 
 </font>
@@ -31,17 +31,17 @@ Election Administration (U.S.) (co-author) (with Kexin Bai and Johanna Dunaway)
 ### Conference Paper :chart_with_upwards_trend:
 <font size="3">
 
-Subnational Unit Proliferation (Turkey) (co-author) (with Sabri Ciftci)
+Subnational Unit Proliferation (Turkey) (with Sabri Ciftci)
 
 Electoral Consequences of Administrative Unit Proliferation (Turkey) (sole-author)
 
-Local Media and Voter Confidence (co-author) (with Johanna Dunaway)
+Local Media and Voter Confidence (with Johanna Dunaway)
 
-Political Economy of Demographic Aging (co-author) (with Margarita Estevez-Abe)
+Political Economy of Demographic Aging (with Margarita Estevez-Abe)
 
-Local News and Incumbency Advantage (co-author) (with Johanna Dunaway)
+Local News and Incumbency Advantage (with Johanna Dunaway)
 
-Local News, Incumbency Effects and Electoral Fortunes of Women and Candidates of Color (co-author) (with Johanna Dunaway and Paru Shah)
+Local News, Incumbency Effects and Electoral Fortunes of Women and Candidates of Color (with Johanna Dunaway and Paru Shah)
 
 </font>
 
