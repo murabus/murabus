@@ -7,21 +7,23 @@ date: '2022-12-25'
 <font size="7"><p style="text-align: center; color:#ae1717;">Work in Progress</p>
 <hr/> </font>
 
-<font size="3">This is a concise summary of the state of my academic endeavors. The titles below are only roughly representative of the general field to which the works belong. If you are interested to know more, drop me a line. </font>
+<font size="3">This is a concise summary of the state of my academic endeavors. The titles below are working titles and will most likely have changed a few times by the time they are submitted. If you are interested to know more, drop me a line. </font>
 
-### Revise & Resubmit :pushpin:
+### Revise & Resubmit :clock930:
 <font size="3">
-
+Gender in Parliamentary Democracies (co-author) (with Sarah A. Fulton)
 
 </font>
 
 
-### Submission :bookmark_tabs: :heavy_check_mark: :ballot_box_with_check: :white_check_mark:
+### Submission  :heavy_check_mark: 
 <font size="3">
+Election Administration (U.S.) (co-author) (with Kexin Bai and Johanna Dunaway)
+
 
 </font>
 
-### Preparing for Submission :file_folder:
+### Preparing for Submission :bookmark_tabs:
 <font size="3">
 
 </font>
@@ -29,32 +31,37 @@ date: '2022-12-25'
 ### Conference Paper :chart_with_upwards_trend:
 <font size="3">
 
-Comparative Analysis of Administrative Reforms (co-author)
+Subnational Unit Proliferation (Turkey) (co-author) (with Sabri Ciftci)
 
-Election Administration (sole-author)
+Electoral Consequences of Administrative Unit Proliferation (Turkey) (sole-author)
 
-Voter Confidence (sole-author)
+Local Media and Voter Confidence (co-author) (with Johanna Dunaway)
 
-Gender in Parliamentary Democracies (co-author)
+Political Economy of Demographic Aging (co-author) (with Margarita Estevez-Abe)
+
+Local News and Incumbency Advantage (co-author) (with Johanna Dunaway)
+
+Local News, Incumbency Effects and Electoral Fortunes of Women and Candidates of Color (co-author) (with Johanna Dunaway and Paru Shah)
 
 </font>
 
 ### Data Gathering & Analysis :floppy_disk:
 <font size="3">
 
-Media and Autocracy (co-author)
 
-Media and Election Administration (co-author)
-
-Media and Voter Confidence (co-author)
-
-Affective Polarization (co-author)
-                                                             
 </font>
+ 
+### Ideas, Ideas... :memo: 
+<font size="3">
+
+One More Look Through the Gendered Lens (sole-author)
+
+</font>
+ 
  
 ### Book Manuscript :book:
 <font size="3">
-First book proposal in initial stages (political knowledge)
+First book proposal in very early stages (political knowledge)
 
 
 </font>
