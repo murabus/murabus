@@ -136,7 +136,7 @@ The author of the command (Mark Pearce) states that this command is designed to 
 
 The interpretation of the results of this exploratory analysis are as follows:
 
-1. The global model shows (as expected) that educational gender has a significant negative relationship with IYI Party vote share. The test of the badwidth suggests that GWR is a significantly better model for this data than global linear regression. 
+1. The global model shows (as expected) that educational gender has a significant negative relationship with IYI Party vote share. The test of the bandwidth suggests that GWR is a significantly better model for this data than global linear regression. 
 2. The significance test for nonstationarity of the parameter estimate shows that the relationship between IYI Party vote share and educational gender gap varies significantly over the entire study area. 
 
 We can then map the estimates in the **eb_gwr.dta** output file which can suggest further influences in spatial nonstationary. This will potentially open up further areas for investigation and helping develop theories. 
@@ -155,7 +155,7 @@ drop _merge
 save "spatial_abus_incongruity_dataset", replace 
 ```
 
-Now that we merged the arameter estimates from GWR to our spatial dataset, we can map them:
+Now that we merged the parameter estimates from GWR to our spatial dataset, we can map them:
 
 ```
 grmap parest, fcolor(Reds2) clmethod(custom) clnumber(10) clbreaks(-13 -11 -9 -7 -5 -3 0 5) legcount
