@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I study political behavior, political communication, public opinion, elections, political economy, and methodology.
+bio: I study political behavior, political communication, public opinion, elections, political economy, and public administration.
 education:
   courses:
   - course: PhD in Political Science
@@ -21,7 +21,7 @@ interests:
 - Public Opinion
 - Elections
 - Political Economy
-- Political Methodology
+- Public Administration
 name: Murat Abus
 organizations:
 - name: Syracuse University
