@@ -54,14 +54,14 @@ Local News, Incumbency Effects and Electoral Fortunes of Women and Candidates of
 ### Ideas, Ideas... :memo: 
 <font size="3">
 
-One More Look Through the Gendered Lens (sole-author)
+2024 U.S. Presidential Election (sole-author)
 
 </font>
  
  
 ### Book Manuscript :book:
 <font size="3">
-First book proposal in very early stages (political knowledge)
+First book proposal in very early stages
 
 
 </font>
