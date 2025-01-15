@@ -11,7 +11,7 @@ date: '2022-12-25'
 
 ### Revise & Resubmit :clock930:
 <font size="3">
-Gender in Parliamentary Democracies (with Sarah A. Fulton)
+Gender in Parliamentary Democracies
 
 </font>
 
@@ -33,7 +33,7 @@ Election Administration (U.S.) (with Kexin Bai and Johanna Dunaway)
 
 Subnational Unit Proliferation (Turkey) (with Sabri Ciftci)
 
-Electoral Consequences of Administrative Unit Proliferation (Turkey) (sole-author)
+Electoral Consequences of Administrative Unit Proliferation (Turkey) 
 
 Local Media and Voter Confidence (with Johanna Dunaway)
 
@@ -54,14 +54,14 @@ Local News, Incumbency Effects and Electoral Fortunes of Women and Candidates of
 ### Ideas, Ideas... :memo: 
 <font size="3">
 
-2024 U.S. Presidential Election (sole-author)
+2024 U.S. Presidential Election 
 
 </font>
  
  
 ### Book Manuscript :book:
 <font size="3">
-First book proposal in very early stages
+First book proposal in concept stage
 
 
 </font>
