@@ -7,18 +7,21 @@ date: '2022-12-25'
 <font size="7"><p style="text-align: center; color:#ae1717;">Work in Progress</p>
 <hr/> </font>
 
-<font size="3">This is a concise summary of the state of my academic endeavors. The titles below are working titles and will most likely have changed a few times by the time they are published. If you are interested to know more, drop me a line. </font>
+<font size="3">This is a concise summary of the state of my academic endeavors. The titles below are representative of the subject studied and will most likely have changed a few times by the time they are published. If you are interested to know more, drop me a line. </font>
 
 ### Revise & Resubmit :clock930:
 <font size="3">
 
-</font>
+Election Administration (U.S.) (with Kexin Bai and Johanna Dunaway)
 
+</font>
 
 ### Submission  :heavy_check_mark: 
 <font size="3">
-Election Administration (U.S.) (with Kexin Bai and Johanna Dunaway)
 
+Determinants of Subnational Territorial Administration (with Sabri Ciftci)
+
+Consequences of Subnational Territorial Administration
 
 </font>
 
@@ -29,10 +32,6 @@ Election Administration (U.S.) (with Kexin Bai and Johanna Dunaway)
 
 ### Conference Paper :chart_with_upwards_trend:
 <font size="3">
-
-Subnational Unit Proliferation (Turkey) (with Sabri Ciftci)
-
-Electoral Consequences of Administrative Unit Proliferation (Turkey) 
 
 Local Media and Voter Confidence (with Johanna Dunaway)
 
