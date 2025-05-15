@@ -12,8 +12,6 @@ date: '2022-12-25'
 ### Revise & Resubmit :clock930:
 <font size="3">
 
-Election Administration (U.S.) (with Kexin Bai and Johanna Dunaway)
-
 </font>
 
 ### Submission  :heavy_check_mark: 
