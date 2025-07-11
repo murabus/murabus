@@ -25,7 +25,7 @@ design:
 
 "I believe that the discussion section of this class was by far my favorite this semester. The way it provided practical, current examples to the theory in lecture really helped me when it came time for papers and exams."
 
-"The discussion section helped me to better undertsand the course content. I was able to make connections between certain topics and understand where they fit in better."
+"The discussion section helped me to better understand the course content. I was able to make connections between certain topics and understand where they fit in better."
 
 "I thought the discussion section was very well done. Mr. Abus was very helpful and made every lesson very fun and engaging."
 
@@ -33,7 +33,7 @@ design:
 
 "I found the discussion portions the most valuable."
 
-"The interaction with the TA and hos willingness to work with me on my papers and prepare the class for the exam."
+"The interaction with the TA and his willingness to work with me on my papers and prepare the class for the exam."
 
 "I found group discussions to be most valuable. I did like that the discussion leader noted who was participating, and ensured that was reflective in the grade."
 
