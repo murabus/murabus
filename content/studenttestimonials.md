@@ -12,6 +12,35 @@ design:
 <font size="7"><p style="text-align: center; color:#ae1717;">Student Testimonials</p>
 <hr/> </font>
 
+<font size="5"><p style="text-align: left; color:#ae1717;">At Syracuse University</p>
+<hr/> </font>
+
+<font size="3"> 
+
+"I think going over what we learned in lecture was super helpful because somethings were very unclear and our TA made sure people participated so when I did, it helped me process the information better."
+
+"This discussions section helped to apply the concepts to the real world."
+
+"The discussion section is very helpful in clearly understanding the topics of the course and applying them in a more familiar context."
+
+"I believe that the discussion section of this class was by far my favorite this semester. The way it provided practical, current examples to the theory in lecture really helped me when it came time for papers and exams."
+
+"The discussion section helped me to better undertsand the course content. I was able to make connections between certain topics and understand where they fit in better."
+
+"I thought the discussion section was very well done. Mr. Abus was very helpful and made every lesson very fun and engaging."
+
+"Murat is able to help me with my essays and help improve."
+
+"I found the discussion portions the most valuable."
+
+"The interaction with the TA and hos willingness to work with me on my papers and prepare the class for the exam."
+
+"I found group discussions to be most valuable. I did like that the discussion leader noted who was participating, and ensured that was reflective in the grade."
+
+"I enjoyed discussing the content and being able to participate and ask questions. Murat was very helpful at answering questions and encouraging people to participate to learn the material."
+
+<font size="5"><p style="text-align: left; color:#ae1717;">At Texas A&M University</p>
+<hr/> </font>
 
 <font size="3"> 
 
