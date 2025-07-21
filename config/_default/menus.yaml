@@ -6,19 +6,19 @@
 main:
   - name: Posts
     url: '/posts/'
-    weight: 20
+    weight: 60
   - name: Research
     url: '/research/'
-    weight: 30
+    weight: 20
   - name: Work in Progress
     url: '/worksinprogress/'
-    weight: 40
+    weight: 30
   - name: Student Testimonials
     url: '/studenttestimonials'
     weight: 50
   - name: Data
     url: '/data'
-    weight: 60
+    weight: 40
     
 
 # Link to a PDF of your resume/CV from the menu.

@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I study political behavior, political communication, public opinion, elections, political economy, and public administration.
+bio: I study political behavior, political communication, public opinion, election science, and public administration.
 education:
   courses:
   - course: PhD in Political Science
@@ -20,7 +20,6 @@ interests:
 - Political Communication
 - Public Opinion
 - Elections
-- Political Economy
 - Public Administration
 name: Murat Abus
 organizations:
@@ -67,6 +66,6 @@ user_groups:
 
 I am a student of American Politics, Comparative Politics and Methodology. I enjoy teaching and collaborating. I believe in exposure through collaboration, in the value of interdisciplinary work, and I am a proponent and practitioner of establishing strong connections with students. I try to be active in the conference circuit. In addition to Turkish, I speak Russian.
 
-Outside of the work that I love, cars, travelling, and archaeology are three primary things that continue to fascinate me. Specifically, I am interested in late-model classic cars, the transition from paleolithic to neolithic eras, and civilizations of the Old World.
+Outside of the work that I love, cars, travelling, and archaeology are three primary things that continue to fascinate me. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-abus.pdf" "newtab" >}}CV{{< /staticref >}}.
