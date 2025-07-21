@@ -19,7 +19,7 @@ interests:
 - Political Behavior
 - Political Communication
 - Public Opinion
-- Elections
+- Election Science
 - Public Administration
 name: Murat Abus
 organizations:
