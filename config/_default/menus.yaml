@@ -5,10 +5,10 @@
 
 main:
 
-  - name: Research
+  - name: Published Research
     url: '/research/'
     weight: 20
-  - name: Work in Progress
+  - name: Works in Progress
     url: '/worksinprogress/'
     weight: 30
   - name: Data
