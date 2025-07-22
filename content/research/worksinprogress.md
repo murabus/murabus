@@ -27,7 +27,7 @@ Subnational Unit Proliferation and Electoral Dynamics with Sabri Ciftci.
 
 Consequences of Subnational Unit Proliferation.
 
-Political Economy of Demographic Aging with Margarita Estevez-Abe.
+Political Economy of Demographic Aging with Margarita Estévez-Abe.
 
 Local Media Access and Voter Confidence with Sakshi Bhalla.
 
