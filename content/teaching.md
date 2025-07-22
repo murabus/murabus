@@ -20,9 +20,9 @@ Introduction to Data Analysis | Data Visualization | Spatial Econometrics | Poli
 <font size="5"><p style="text-align: center; color:#ae1717;">Sample Syllabi</p>
 <hr/> </font>
 
-1. Election Science {{< icon name="download" pack="fas" >}} [Election Science](/uploads/macro_syllabus.pdf)
+Election Science {{< icon name="download" pack="fas" >}} [Election Science](/uploads/abus_syllabus_election_science.pdf)
 
-2. Political Behavior {{< icon name="download" pack="fas" >}} [Political Behavior](/uploads/macro_syllabus.pdf)
+Political Behavior {{< icon name="download" pack="fas" >}} [Political Behavior](/uploads/abus_syllabus_political_behavior.pdf)
 
 <font size="6"><p style="text-align: center; color:#ae1717;">Teaching Experience</p>
 <hr/> </font>
