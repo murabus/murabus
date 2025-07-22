@@ -9,11 +9,46 @@ design:
     padding: ["0", "0", "0", "0"]  
 ---
 
-<font size="7"><p style="text-align: center; color:#ae1717;">Student Testimonials</p>
+
+<font size="5"><p style="text-align: center; color:#ae1717;">Teaching Interests</p>
 <hr/> </font>
 
-<font size="5"><p style="text-align: left; color:#ae1717;">At Syracuse University</p>
+<font size="3">
+aewrgfwea | ertyey e546y | sergeryg e4rty4e5 | wwreye5rye56y45e6y
+
+<font size="5"><p style="text-align: center; color:#ae1717;">Sample Syllabi</p>
 <hr/> </font>
+
+
+
+
+
+
+
+
+
+
+<font size="6"><p style="text-align: center; color:#ae1717;">Teaching Experience</p>
+<hr/> </font>
+
+<font size="5"><p style="text-align: center; color:#ae1717;">At Syracuse University</p>
+<hr/> </font>
+
+<font size="4"><p style="text-align: center; color:#ae1717;">Courses Taught</p>
+<hr/> </font>
+
+<font size="4"><p style="text-align: center; color:#ae1717;">Teaching Evaluations</p>
+<hr/> </font>
+
+<font size="3"> 
+Available upon request
+
+<font size="4"><p style="text-align: center; color:#ae1717;">Student Testimonials</p>
+<hr/> </font>
+
+
+
+
 
 <font size="3"> 
 
@@ -39,7 +74,16 @@ design:
 
 "I enjoyed discussing the content and being able to participate and ask questions. Murat was very helpful at answering questions and encouraging people to participate to learn the material."
 
-<font size="5"><p style="text-align: left; color:#ae1717;">At Texas A&M University</p>
+<font size="5"><p style="text-align: center; color:#ae1717;">At Texas A&M University</p>
+<hr/> </font>
+
+<font size="4"><p style="text-align: center; color:#ae1717;">Courses Taught</p>
+<hr/> </font>
+
+<font size="4"><p style="text-align: center; color:#ae1717;">Teaching Evaluations</p>
+<hr/> </font>
+
+<font size="4"><p style="text-align: center; color:#ae1717;">Student Testimonials</p>
 <hr/> </font>
 
 <font size="3"> 
