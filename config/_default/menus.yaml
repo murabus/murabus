@@ -11,8 +11,8 @@ main:
   - name: Data
     url: '/data'
     weight: 30
-  - name: Student Testimonials
-    url: '/studenttestimonials'
+  - name: Teaching
+    url: '/teaching'
     weight: 40
   - name: Posts
     url: '/posts/'
