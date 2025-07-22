@@ -20,31 +20,36 @@ Introduction to Data Analysis | Data Visualization | Spatial Econometrics | Poli
 <font size="5"><p style="text-align: center; color:#ae1717;">Sample Syllabi</p>
 <hr/> </font>
 
-Election Science {{< icon name="download" pack="fas" >}} [Election Science](/uploads/abus_syllabus_election_science.pdf)
+{{< icon name="download" pack="fas" >}} [Election Science](/uploads/abus_syllabus_election_science.pdf)
 
-Political Behavior {{< icon name="download" pack="fas" >}} [Political Behavior](/uploads/abus_syllabus_political_behavior.pdf)
-
-<font size="6"><p style="text-align: center; color:#ae1717;">Teaching Experience</p>
-<hr/> </font>
+{{< icon name="download" pack="fas" >}} [Political Behavior](/uploads/abus_syllabus_political_behavior.pdf)
 
 <font size="5"><p style="text-align: center; color:#ae1717;">At Syracuse University</p>
 <hr/> </font>
 
-<font size="4"><p style="text-align: center; color:#ae1717;">Courses Taught</p>
+<font size="4"><p style="text-align: center; color:#ae1717;">Courses Taught (TA) </p>
 <hr/> </font>
+
+<font size="3">
+PSC 124: Introduction to International Relations, Spring 2024
+
+PSC 124: Introduction to International Relations, Fall 2023
 
 <font size="4"><p style="text-align: center; color:#ae1717;">Teaching Evaluations</p>
 <hr/> </font>
 
 <font size="3"> 
-Available upon request
+
+{{< icon name="download" pack="fas" >}} [Political Behavior](/uploads/abus_syllabus_political_behavior.pdf)
+
+{{< icon name="download" pack="fas" >}} [Political Behavior](/uploads/abus_syllabus_political_behavior.pdf)
+
+{{< icon name="download" pack="fas" >}} [Political Behavior](/uploads/abus_syllabus_political_behavior.pdf)
+
+{{< icon name="download" pack="fas" >}} [Political Behavior](/uploads/abus_syllabus_political_behavior.pdf)
 
 <font size="4"><p style="text-align: center; color:#ae1717;">Student Testimonials</p>
 <hr/> </font>
-
-
-
-
 
 <font size="3"> 
 
@@ -73,7 +78,7 @@ Available upon request
 <font size="5"><p style="text-align: center; color:#ae1717;">At Texas A&M University</p>
 <hr/> </font>
 
-<font size="4"><p style="text-align: center; color:#ae1717;">Courses Taught</p>
+<font size="4"><p style="text-align: center; color:#ae1717;">Courses Taught (TA)</p>
 <hr/> </font>
 
 <font size="4"><p style="text-align: center; color:#ae1717;">Teaching Evaluations</p>
