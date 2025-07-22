@@ -2,7 +2,7 @@
 title: ''
 author: Murat Abus
 date: '2022-06-20'
-slug: studenttestimonials
+slug: teaching
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
