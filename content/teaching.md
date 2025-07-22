@@ -40,13 +40,13 @@ PSC 124: Introduction to International Relations, Fall 2023
 
 <font size="3"> 
 
-{{< icon name="download" pack="fas" >}} [Political Behavior](/uploads/abus_syllabus_political_behavior.pdf)
+{{< icon name="download" pack="fas" >}} [PSC 124, Spring 2024 Section 1](/uploads/PSC124_evaluation_Spring_2024_1.pdf)
 
-{{< icon name="download" pack="fas" >}} [Political Behavior](/uploads/abus_syllabus_political_behavior.pdf)
+{{< icon name="download" pack="fas" >}} [PSC 124, Spring 2024 Section 1](/uploads/PSC124_evaluation_Spring_2024_2.pdf)
 
-{{< icon name="download" pack="fas" >}} [Political Behavior](/uploads/abus_syllabus_political_behavior.pdf)
+{{< icon name="download" pack="fas" >}} [PSC 124, Fall 2023 Section 1](/uploads/PSC124_evaluation_Fall_2023_1.pdf)
 
-{{< icon name="download" pack="fas" >}} [Political Behavior](/uploads/abus_syllabus_political_behavior.pdf)
+{{< icon name="download" pack="fas" >}} [PSC 124, Falll 2023 Section 2](/uploads/PSC124_evaluation_Fall_2023_2.pdf)
 
 <font size="4"><p style="text-align: center; color:#ae1717;">Student Testimonials</p>
 <hr/> </font>
@@ -81,8 +81,32 @@ PSC 124: Introduction to International Relations, Fall 2023
 <font size="4"><p style="text-align: center; color:#ae1717;">Courses Taught (TA)</p>
 <hr/> </font>
 
+<font size="3"> 
+
+POLS 200: Foundations of Political Science, Spring 2023
+
+POLS 209: Introduction to Political Science Research Methods, Fall 2022
+
+POLS 200: Foundations of Political Science, Spring 2022
+
+POLS 200: Foundationa of Political Science, Fall 2021
+
 <font size="4"><p style="text-align: center; color:#ae1717;">Teaching Evaluations</p>
 <hr/> </font>
+
+<font size="3"> 
+
+{{< icon name="download" pack="fas" >}} [POLS 200, Spring 2023 Section 1](/uploads/POLS200_evaluation_Spring_2023_1.pdf)
+
+{{< icon name="download" pack="fas" >}} [POLS 200, Spring 2023 Section 2](/uploads/POLS200_evaluation_Spring_2023_2.pdf)
+
+{{< icon name="download" pack="fas" >}} [POLS 209, Fall 2022 Section 1](/uploads/POLS209_evaluation_Fall_2022_1.pdf)
+
+{{< icon name="download" pack="fas" >}} [POLS 209, Fall 2022 Section 2](/uploads/POLS209_evaluation_Fall_2022_2.pdf)
+
+{{< icon name="download" pack="fas" >}} [POLS 200, Spring 2022](/uploads/POLS200_evaluation_Spring_2022_1.pdf)
+
+{{< icon name="download" pack="fas" >}} [POLS 200, Fall 2021](/uploads/POLS200_evaluation_Fall_2021_1.pdf)
 
 <font size="4"><p style="text-align: center; color:#ae1717;">Student Testimonials</p>
 <hr/> </font>
