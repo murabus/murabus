@@ -14,19 +14,15 @@ design:
 <hr/> </font>
 
 <font size="3">
-aewrgfwea | ertyey e546y | sergeryg e4rty4e5 | wwreye5rye56y45e6y
+Introduction to Data Analysis | Data Visualization | Spatial Econometrics | Political Behavior | Election Science | State and Local Politics | American Government | Populism | Authoritarianism
+
 
 <font size="5"><p style="text-align: center; color:#ae1717;">Sample Syllabi</p>
 <hr/> </font>
 
+1. Election Science {{< icon name="download" pack="fas" >}} [Election Science](/uploads/macro_syllabus.pdf)
 
-
-
-
-
-
-
-
+2. Political Behavior {{< icon name="download" pack="fas" >}} [Political Behavior](/uploads/macro_syllabus.pdf)
 
 <font size="6"><p style="text-align: center; color:#ae1717;">Teaching Experience</p>
 <hr/> </font>
