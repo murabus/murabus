@@ -5,21 +5,18 @@
 
 main:
 
-  - name: Published Research
+  - name: Research
     url: '/research/'
     weight: 20
-  - name: Works in Progress
-    url: '/worksinprogress/'
-    weight: 30
   - name: Data
     url: '/data'
-    weight: 40
+    weight: 30
   - name: Student Testimonials
     url: '/studenttestimonials'
-    weight: 50
+    weight: 40
   - name: Posts
     url: '/posts/'
-    weight: 60   
+    weight: 50   
    
    
     
