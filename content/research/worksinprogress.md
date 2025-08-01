@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 title: Works in Progress
-subtitle:
+subtitle: (in order of progress made)
 weight: 20  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -15,19 +15,19 @@ design:
   
 ---
 
-Local News and Incumbency Advantage with Johanna Dunaway.
+"Subnational Unit Proliferation and Electoral Dynamics" (with Sabri Ciftci)
 
-Social Context, Local News, and Voter Confidence with Johanna Dunaway.
+"Social Context, Local News, and Voter Confidence" (with Johanna Dunaway)
 
-Local News, Incumbency Effects, and Electoral Fortunes with Johanna Dunaway and Paru Shah.
+"Local news and Political Competition" (with Johanna Dunaway)
 
-Spatial Analysis of Local News Decline with Johanna Dunaway.
+"Consequences of Subnational Unit Proliferation"
 
-Subnational Unit Proliferation and Electoral Dynamics with Sabri Ciftci.
+"Local News, Incumbency Effects, and Electoral Fortunes" (with Johanna Dunaway and Paru Shah)
 
-Consequences of Subnational Unit Proliferation.
+"Political Economy of Demographic Aging" (with Margarita Estévez-Abe)
 
-Political Economy of Demographic Aging with Margarita Estévez-Abe.
+"Spatial Analysis of Local News Decline" (with Johanna Dunaway)
 
-Local Media Access and Voter Confidence with Sakshi Bhalla.
+"Local Media Access and Voter Confidence" (with Sakshi Bhalla)
 
