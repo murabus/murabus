@@ -36,8 +36,8 @@ tags:
 featured: false
 
 url_pdf: ''
-url_code: ' https://doi.org/10.7910/DVN/WEVPNI'
-url_dataset: ' https://doi.org/10.7910/DVN/WEVPNI'
+url_code: 'https://doi.org/10.7910/DVN/WEVPNI'
+url_dataset: 'https://doi.org/10.7910/DVN/WEVPNI'
 links:
 - name: DOI
   url: https://doi.org/10.1016/j.electstud.2025.102970
