@@ -35,7 +35,7 @@ tags:
 - Voting experience
 featured: false
 
-url_pdf: ''
+url_pdf: uploads/Abus et al_2025_Local News, Partisanship, and Perceptions about Election Administration.pdf
 url_code: 'https://doi.org/10.7910/DVN/WEVPNI'
 url_dataset: 'https://doi.org/10.7910/DVN/WEVPNI'
 links:

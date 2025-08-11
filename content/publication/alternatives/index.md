@@ -16,7 +16,7 @@ publishDate: "2003"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Alternatives: Turkish Joournal of International Relations"
+publication: "Alternatives: Turkish Journal of International Relations"
 publication_short: "Alternatives"
 
 abstract: Studies employing conceptual frameworks that call for a clear separation between transition and consolidation get it wrong. Because of the peculiar characteristics of Balkan countries, it has been demonstrated that the process was, is, and will be a unique one. Therefore, "gradualism" is a better way to approach the issue of democratization in the Balkans. The results after a decade of democratization are decidedly mixed, but this region surpasses almost all other postcommunist regions with respect to the measures of institutionalization explored here. The future propsects for further Balkan democratization will inevitably be linked to their economic performance and in this context a mutual interaction between the EU and the Balkan countries and especially the "pull" factor of the EU will be two of the most important deciding factors. 
