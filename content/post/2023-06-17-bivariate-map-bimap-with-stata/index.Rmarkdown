@@ -35,7 +35,7 @@ ssc install bimap, replace
 We are ready to create a bivariate map. The data is at the district level and we will be able to see how the vote share of HDP covaries with the educational gender gap at the district level. The basic syntax of the command is as follows: The variables that we want to map follow the bimap command. We then specify the shapefile we will use to map the data. As it will be familiar to the readers of previous posts, we are using the district level shapefile. We then specify how we want to cut the data (here I choose equal), we choose our palette. We specify our labels for the x and y axes and we choose to print the count values. In this first example, we choose not to draw any borders between the districts.
 
 ```
-bimap IYI educgengap using tur_polbnda_adm2_shp, cut(equal) palette(pinkgreen)///
+bimap IYI educgengap, shp(tur_polbnda_adm2_shp) old cut(equal) palette(pinkgreen)///
 textx("Educational Gender Gap") texty("IYI Vote Share 2018") texts(3) textlabs(2.5)///
 count values ocolor() osize(none)
 ```
@@ -49,7 +49,7 @@ What do we see here? We can see the covariation between the IYI Party vote share
 If we want to draw the borders between the districts, we could have the following approach. Here, we are assigning the border color as white and the thickness as 0.1.
 
 ```
-bimap IYI educgengap using tur_polbnda_adm2_shp, cut(equal) palette(pinkgreen)///
+bimap IYI educgengap, shp(tur_polbnda_adm2_shp) old cut(equal) palette(pinkgreen)///
 textx("Educational Gender Gap") texty("IYI Vote Share 2018") texts(3) textlabs(2.5)///
 count values ocolor(white) osize(0.1)
 ```
@@ -61,7 +61,7 @@ This is what we get:
 Let us say, we would rather like to see the borders between the provinces (which are the upper level subnational administrative units composed of districts). In that case, we would need to tell Stata that the borders are to be drawn using the shapefile for the provinces (this is the files designated by 1 and we need to have this file in the same working directory).
 
 ```
-bimap IYI educgengap using tur_polbnda_adm2_shp, cut(equal) palette(pinkgreen)///
+bimap IYI educgengap, shp(tur_polbnda_adm2_shp) old cut(equal) palette(pinkgreen)///
 textx("Educational Gender Gap") texty("IYI Vote Share 2018")  texts(3) textlabs(2.5)///
 count values ocolor() osize(none) polygon(data("tur_polbnda_adm1_shp")///
 ocolor(black) osize(0.05))

@@ -15,11 +15,11 @@ design:
   
 ---
 
-"Subnational Unit Proliferation and Electoral Dynamics" (with Sabri Ciftci)
+"Subnational Unit Proliferation and Electoral Dynamics" (with Sabri Ciftci) (under review)
 
 "Social Context, Local News, and Voter Confidence" (with Johanna Dunaway)
 
-"Local news and Political Competition" (with Johanna Dunaway)
+"Local News and Political Competition" (with Johanna Dunaway)
 
 "Consequences of Subnational Unit Proliferation"
 
