@@ -36,4 +36,3 @@ design:
   columns: '1'
 ---
 
-I occasionally muse on things. It is highly likely that my ideas draw on others, and I do my best to acknowledge my intellectual debt to others. The ideas I express here do not necessarily reflect those of any institution. If you find anything from my opinion pieces to be useful, please let me know and acknowledge the source. Thank you!
