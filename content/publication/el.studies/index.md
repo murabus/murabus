@@ -42,7 +42,7 @@ links:
 - name: DOI
   url: https://doi.org/10.1016/j.electstud.2025.102970
 - name: Supplementary Information
-  url: uploads/local_news_partisanship_election_administration(S.I.).pdf
+  url: uploads/local_news_partisanship_election_administration(S.I).pdf
 url_poster: ''
 url_project: ''
 url_slides: ''
