@@ -29,7 +29,7 @@ design:
 
 "Spatial Analysis of Local News Decline" (with Johanna Dunaway)
 
-"Local Media Access and Voter Confidence" (with Sakshi Bhalla)
+"Local Media Access and Voter Confidence"
 
 "Local News and the Nationalization of Politics, 2004-2024" (with Johanna Dunaway, Joshua Darr, and Matthew Hitt)
 
