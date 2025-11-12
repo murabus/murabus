@@ -15,19 +15,19 @@ design:
   
 ---
 
-"Subnational Unit Proliferation and Electoral Dynamics" (with Sabri Ciftci) (under review)
+"Subnational Unit Proliferation and Electoral Dynamics" (with Sabri Ciftci) 
+
+"Administrative Unit Proliferation and Incumbency Advantage"
 
 "Social Context, Local News, and Voter Confidence" (with Johanna Dunaway)
 
 "Local News and Political Competition" (with Johanna Dunaway)
 
-"Consequences of Subnational Unit Proliferation"
-
 "Local News, Incumbency Effects, and Electoral Fortunes" (with Johanna Dunaway and Paru Shah)
 
 "Political Economy of Demographic Aging" (with Margarita Estévez-Abe)
 
-"Spatial Analysis of Local News Decline" (with Johanna Dunaway)
+"Nonstationary Geography of Nationalization in the US" (with Cameron Wimpy)
 
 "Local Media Access and Voter Confidence"
 
