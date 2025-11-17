@@ -17,7 +17,7 @@ design:
 
 "Subnational Unit Proliferation and Electoral Dynamics" (with Sabri Ciftci) 
 
-"Administrative Unit Proliferation and Incumbency Advantage"
+"Electoral Consequences of Administrative Reforms"
 
 "Social Context, Local News, and Voter Confidence" (with Johanna Dunaway)
 
