@@ -2,4 +2,4 @@
 - 🤔 I’m a Ph.D. Candidate at Syracuse University, Maxwell School of Citizenship and Public Affairs. 
 - 🔭 I’m currently studying political behavior, political communication, public opinion, elections, political economy, and public administration.
 - 👯 I’m available for collaboration and review requests.
-- 📫 How to reach me: [My website](https://www.muratabus.com), [Twitter](https://twitter.com/muratabus), [Bluesky](https://bsky.app/profile/muratabus.bsky.social)
+- 📫 How to reach me: [My website](https://www.muratabus.com), [Twitter](https://twitter.com/muratabus).
