@@ -15,7 +15,7 @@ design:
   
 ---
 
-"Subnational Unit Proliferation and Electoral Dynamics" (with Sabri Ciftci) (under review)
+"Subnational Unit Proliferation and Electoral Dynamics" (with Sabri Ciftci) (revise and resubmit)
 
 "Electoral Consequences of Administrative Reforms" (under review)
 
