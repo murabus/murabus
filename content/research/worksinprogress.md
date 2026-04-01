@@ -19,13 +19,13 @@ design:
 
 "Electoral Consequences of Administrative Reforms" (under review)
 
+"Nationalization of Local Elections" (with Cameron Wimpy)
+
 "Social Context, Local News, and Voter Confidence" (with Johanna Dunaway)
 
 "Local News and Political Competition" (with Johanna Dunaway)
 
 "Political Economy of Demographic Aging" (with Margarita Estévez-Abe)
-
-"Nationalization of Local Elections" (with Cameron Wimpy)
 
 "Local Media Access and Voter Confidence" (with Kexin Bai)
 
