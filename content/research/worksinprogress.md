@@ -23,13 +23,10 @@ design:
 
 "Local News and Political Competition" (with Johanna Dunaway)
 
-"Local News, Incumbency Effects, and Electoral Fortunes" (with Johanna Dunaway and Paru Shah)
-
 "Political Economy of Demographic Aging" (with Margarita Estévez-Abe)
 
 "Nonstationary Geography of Nationalization in the US" (with Cameron Wimpy)
 
-"Local Media Access and Voter Confidence"
+"Local Media Access and Voter Confidence" (with Kexin Bai)
 
-"Local News and the Nationalization of Politics, 2004-2024" (with Johanna Dunaway, Joshua Darr, and Matthew Hitt)
 
