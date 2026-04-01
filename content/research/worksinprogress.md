@@ -25,7 +25,7 @@ design:
 
 "Political Economy of Demographic Aging" (with Margarita Estévez-Abe)
 
-"Nonstationary Geography of Nationalization in the US" (with Cameron Wimpy)
+"Nationalization of Local Elections" (with Cameron Wimpy)
 
 "Local Media Access and Voter Confidence" (with Kexin Bai)
 
