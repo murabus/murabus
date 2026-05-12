@@ -15,7 +15,7 @@ design:
   
 ---
 
-"Electoral Consequences of Administrative Reforms" (under review)
+"Electoral Consequences of Administrative Reforms"
 
 "Nationalization of Local Elections" (with Cameron Wimpy)
 
