@@ -15,8 +15,6 @@ design:
   
 ---
 
-"Subnational Unit Proliferation and Electoral Dynamics" (with Sabri Ciftci) (revise and resubmit)
-
 "Electoral Consequences of Administrative Reforms" (under review)
 
 "Nationalization of Local Elections" (with Cameron Wimpy)
