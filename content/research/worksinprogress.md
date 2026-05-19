@@ -21,7 +21,7 @@ design:
 
 "Local News and Political Competition" (with Johanna Dunaway)
 
-"Political Economy of Demographic Aging" (with Margarita Estévez-Abe)
+"Municipalities and Territorial Reforms in the Context of Authoritarianism" (with Sabri Ciftci)
 
 "Local Media Access and Voter Confidence" (with Kexin Bai)
 
